@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Euschēmonos kai kata taxin, or, The grounds of uniformity from I Cor. 14:40 vindicated from Mr Jeanes's exceptions to one passage in the view of the directory / by H. Hammond ...</title>
+            <author>Hammond, Henry, 1605-1660.</author>
+         </titleStmt>
+         <extent>Approx. 94KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23896</idno><idno type="EEBO-CITATION">12832655_199438</idno>
+  <idno type="VID">199438</idno>
+  <idno type="EEBO-PROQUEST">2248539006</idno>
+  
+            <idno type="STC">Wing H541</idno>
+            <idno type="STC">ESTC R11572</idno>
+            <idno type="OCLC">12832655</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199438)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 382:21, 533:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Euschēmonos kai kata taxin, or, The grounds of uniformity from I Cor. 14:40 vindicated from Mr Jeanes's exceptions to one passage in the view of the directory / by H. Hammond ...</title>
+                  <author>Hammond, Henry, 1605-1660.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Richard Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First four words of title in Greek characters.</note>
+                  <note>Copy on reel 533 bound and filmed following the author's Ektenesteron, or, The degrees of ardency in Christs prayer reconciled with his fulnesse of habitval grace. London : Printed for R. Royston, 1656 (Wing H540).</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York, and the Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jeanes, Henry, 1611-1662. --  Doctor Hammond his Ektenesteron.</term>
+               <term type="personal_name">Hammond, Henry, 1605-1660. --  View of the new directory.</term>
+               <term type="uniform_title">Bible. --  N.T. --  Corinthians, 1st, XIV, 40 --  Criticism, interpretation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:199438:1"/>
+                  <p>ΕΚΤΕΝΕ'ΣΤΕΡΟΝ.</p>
+                  <p>OR The Degrees of Ardency IN CHRISTS PRAYER <hi>Reconciled</hi> with His <hi>fulnesse</hi> OF <hi>HABITƲAL GRACE.</hi>
+                  </p>
+                  <p>In <hi>Reply</hi> to the <hi>Author</hi> of a <hi>Book,</hi> intituled, <hi>A mixture of Scholastical Divinity with Practical.</hi>
+                  </p>
+                  <p>By H. HAMMOND. D. D.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed for R. ROYSTON at the Angel in <hi>Ivie-lane.</hi> 1656.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:199438:2"/>
+                  <pb n="1" facs="tcp:199438:2"/>
+                  <head>The Degrees of ardency in <hi>Christ's Prayer, &amp;c.</hi>
+                  </head>
+                  <p>§. 1. I Was very willing to hearken to the <hi>seasonable</hi> advice of many, and to wholly <hi>withdraw</hi> my self <hi>à foro conten<g ref="char:EOLhyphen"/>tioso,</hi> to some more <hi>pleasing</hi> &amp; <hi>profitable</hi> imployment; but discerning it to be the <hi>desire</hi> of the <hi>Author</hi> of the <hi>Book,</hi> Intituled, <hi>A mixture of Scholastical and Practical Divinity,</hi> that I should <hi>reply</hi> to his <hi>examination</hi> of one passage of mine a<g ref="char:EOLhyphen"/>gainst Mr. <hi>Cawdrey,</hi> I shall make no scruple immediately to <hi>obey</hi> him, not only because it may be done in very <hi>few</hi> words, but espe<g ref="char:EOLhyphen"/>cially because the <hi>doctrine,</hi> which he affixeth to mee, seems (and not without some <hi>reason</hi>) to be contrary to the <hi>truth</hi> of <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> which I am to look on with all <hi>reverent</hi> submission and ac<g ref="char:EOLhyphen"/>quiesce in, with <hi>captivation</hi> of <hi>understanding,</hi> and so not assert any thing from my <hi>own</hi> conceptions, which is but seemingly <hi>contrary</hi> to it.</p>
+                  <p n="2">2. The proposition which he <hi>affixes</hi> to mee, is
+<note n="*" place="margin">Of the fulness of Christ. p. 258.</note> this; <hi>That Christs love of God was capable of farther degrees,</hi> and that he refutes, as being <hi>contrary to that point</hi> (a <hi>truth</hi> of <hi>Scripture</hi>) which he had in hand, <hi>viz.</hi> The <hi>dwelling of all fulness of habitu<g ref="char:EOLhyphen"/>all grace in Christ.</hi>
+                  </p>
+                  <p n="3">3. By this I suppose I may conclude his meaning to bee, that I have affirmed <hi>Christs love</hi> of <hi>God</hi> (meaning thereby that <hi>habituall grace</hi> of <hi>divine Charity</hi>) to have been <hi>capable of further degrees,</hi> so as that <hi>capacity</hi> of <hi>further degrees,</hi> is the <hi>denyall</hi> of <hi>all fulness of that habitual grace</hi> already in him.</p>
+                  <p n="4">4. And truly, had I thus <hi>exprest</hi> my self, or let fall any words, which might have been thus <hi>interpretable,</hi> I acknowledge I had been very <hi>injurious</hi> not onely to the <hi>verity</hi> of <hi>God,</hi> but also to my <hi>own conceptions,</hi> and even to the <hi>cause</hi> which I had in hand, which had not been <hi>supported,</hi> but <hi>betrayed</hi> by any such appre<g ref="char:EOLhyphen"/>hension of the <hi>imperfection of Christs habitual graces.</hi>
+                  </p>
+                  <p n="5">
+                     <pb n="2" facs="tcp:199438:3"/>5. This I could easily shew, and withall how <hi>cautiously</hi> and <hi>expresly</hi> it was <hi>fore-stall'd</hi> by mee; But to the matter in hand, it is sufficient, that I professe I never thought it; but deem it a <hi>contrariety</hi> to expresse words of <hi>Scripture</hi> in any man who shall think it, and in short, that I never gave <hi>occasion</hi> to any man to <hi>believe</hi> it my opinion, having never said it in <hi>those</hi> words which he sets up to <hi>refute</hi> in mee, never in any <hi>other</hi> that may be rea<g ref="char:EOLhyphen"/>sonably <hi>interpretable</hi> to that sense.</p>
+                  <p n="6">6. <hi>First,</hi> I said it not in <hi>those</hi> words, which he undertakes to <hi>refute;</hi> These are p. 258. of his <hi>Book</hi> thus set down by him.</p>
+                  <q>
+                     <hi>This point may serve for confutation of a passage in</hi> Dr. <hi>H. a<g ref="char:EOLhyphen"/>gainst</hi> Mr. <hi>C. to wit, That Christs love of God was capable of farther degrees.</hi>]</q>
+                  <p n="7">7. These words I never said, nor indeed are they to be found in the <hi>Passage,</hi> which he sets down from mee, and whereon he grounds them; which, saith he, is this:</p>
+                  <q>
+                     <bibl>Dr. <hi>H.</hi> p. 222.</bibl>
+                     <hi>In the next place he passeth to the inforcement of my argu<g ref="char:EOLhyphen"/>ment, from what we read concerning Christ himself, that he was more intense in Prayer at one time than another, when yet the low<g ref="char:EOLhyphen"/>er degree was sure no sin, and prepares to make answer to it.</hi> viz. <hi>That Christ was above the Law, and did more then the Law re<g ref="char:EOLhyphen"/>quired, but men shall short by many degrees of what is requi<g ref="char:EOLhyphen"/>red. But sure this answer is nothing to the matter now in hand, for the evidencing of which, that example of Christ was brought by mee,</hi> viz. <hi>That sincere Love is capable of degrees. This was first shewed in severall men, and in the same man at several times, in the severall rankes of Angels, and at last in Christ himself, more ardent in one act of Prayer than in another.</hi>
+                  </q>
+                  <p n="8">8. Here the <hi>Reader</hi> findes not the words <hi>[Christs love of God is capable of further degrees]</hi> and when by <hi>deduction</hi> he endea<g ref="char:EOLhyphen"/>vours to <hi>conclude</hi> them from these words, his <hi>conclusion</hi> falls <hi>short</hi> in <hi>one</hi> word <hi>viz. [further]</hi> and 'tis but this,</p>
+                  <pb n="3" facs="tcp:199438:3"/>
+                  <p>
+                     <hi>That the example of Christ will never prove D. H. his con<g ref="char:EOLhyphen"/>clusion, unlesse it inferre, that Christs love of God was capable of degrees.]</hi>
+                  </p>
+                  <p n="9">9. This is but a <hi>slight</hi> charge indeed, yet may be worthy to be taken <hi>notice</hi> of in the entrance (though the <hi>principal</hi> weight of my <hi>answer</hi> be not laid on it) and suggest this <hi>seasonable</hi> ad<g ref="char:EOLhyphen"/>vertisement, that he which undertakes to <hi>refute</hi> any saying of <hi>another,</hi> must oblige himself to an <hi>exact recital</hi> of it to a <hi>word,</hi> and <hi>syllable;</hi> Otherwise he may himself become the onely <hi>Author</hi> of the Proposition, which he <hi>refutes.</hi>
+                  </p>
+                  <p n="10">10. The <hi>difference</hi> is no more than by the <hi>addition</hi> of the word <hi>[further.]</hi> But that addition may possibly beget in the <hi>Read<g ref="char:EOLhyphen"/>ers understanding,</hi> a very <hi>considerable</hi> difference.</p>
+                  <p n="11">11. For this proposition <hi>[Christs love of God was capable of fur<g ref="char:EOLhyphen"/>ther degrees</hi>] is readily interpretable to this <hi>dangerous</hi> sense, that <hi>Christs love of God was not ful,</hi> but so farre <hi>imperfect,</hi> as to be <hi>capable of some further degrees</hi> than yet it <hi>had;</hi> And thus sure the <hi>Author</hi> I have now before mee, acknowledges to have <hi>un<g ref="char:EOLhyphen"/>derstood</hi> the words, and accordingly proposeth to <hi>refute</hi> them from the consideration of <hi>the all-fulness of habitual grace in Christ,</hi> which he could not doe, unlesse he deemed them a <hi>pre<g ref="char:EOLhyphen"/>judice</hi> to it.</p>
+                  <p n="12">12. But those <hi>other</hi> words, which though he findes not in my <hi>pape<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi> he yet not <hi>illogically</hi> inferres from them <hi>[that Christs love of God was capable of degrees, more intense at one time than at ano<g ref="char:EOLhyphen"/>ther]</hi> are not so <hi>liable</hi> to be thus interpreted, but onely import that <hi>Christs love of God</hi> had in its <hi>latitude</hi> or <hi>amplitude</hi> severall <hi>degrees,</hi> one differing from another. See <hi>magis &amp; minus,</hi> all of them comprehended in that <hi>all-full perfect love of God,</hi> which was alwayes in <hi>Christ</hi> so <hi>full,</hi> and so perfect, as not to <hi>want,</hi> and so not to be <hi>capable</hi> of <hi>further degrees.</hi>
+                  </p>
+                  <p n="13">13. The Matter is cleare; The <hi>degrees</hi> of which <hi>Christs love of God</hi> is capable, are by me thus exprest, that <hi>his love was more intense at one time than at another;</hi> but still the <hi>higher</hi> of those <hi>de<g ref="char:EOLhyphen"/>grees</hi> of <hi>intensness,</hi> was as truly acknowledged to be in <hi>Christs love,</hi> at <hi>some</hi> time, <hi>viz.</hi> in his <hi>agonie,</hi> as the <hi>lower</hi> was at <hi>another,</hi> and so <hi>all</hi> the <hi>degrees,</hi> which are supposed to be mentioned of
+<pb n="4" facs="tcp:199438:4"/>his <hi>love,</hi> are also <hi>supposed,</hi> and <hi>expresly</hi> affirmed to have been <hi>in him</hi> at some time or other; whereas a supposed <hi>capacity of further degrees, seems</hi> at least (and so is resolved by <hi>that Au<g ref="char:EOLhyphen"/>thor</hi>) to <hi>inferre,</hi> that these <hi>degrees</hi> were <hi>not</hi> in <hi>Christ</hi> (the direct <hi>contradictorie</hi> to the <hi>former</hi> Proposition) and so that they were <hi>wanting</hi> in him, &amp; the but <hi>seeming</hi> asserting of that <hi>want</hi> is just<g ref="char:EOLhyphen"/>ly <hi>censured,</hi> as <hi>prejudiciall</hi> to <hi>Christs fulness.</hi> Here then was one <hi>misadventure</hi> in his proceeding.</p>
+                  <p n="14">14. But this is but the <hi>proaemial</hi> part of my <hi>Reply,</hi> there is an<g ref="char:EOLhyphen"/>other more <hi>material</hi> branch of it still behind, which may yet seem <hi>necessarie</hi> to be <hi>added, viz.</hi> to mind him of (what he well knowes) the <hi>distinction</hi> between <hi>habits</hi> and <hi>acts</hi> of <hi>virtues,</hi> or <hi>gra<g ref="char:EOLhyphen"/>ces;</hi> and that <hi>love</hi> the <hi>Genus</hi> doth equally <hi>comprehend</hi> both these <hi>species,</hi> and that his <hi>discourse</hi> of <hi>all fulness</hi> belonging to the <hi>habi<g ref="char:EOLhyphen"/>tual grace</hi> of <hi>Christ, I</hi> speak distinctly of <hi>another</hi> matter, <hi>viz.</hi> of the <hi>degrees of</hi> that <hi>grace</hi> discernable in the <hi>several acts</hi> of it.</p>
+                  <p n="15">15. This <hi>distinction</hi> I thought <hi>legible</hi> enough before, both in the <hi>Tract</hi> of <hi>Will-worship,</hi> and in the <hi>Answer</hi> to Mr. <hi>Caw.</hi>
+                  </p>
+                  <p n="16">16. In the former the
+<note place="margin">p. 259.</note>
+                     <hi>Refuter</hi> confesseth to finde it, <hi>reciting</hi> these words of mine, <hi>It is possible for the same person constantly to love God above all, and yet to have higher expressions of that love at one time than another.</hi> Where the <hi>expressions at one time,</hi> and at <hi>another,</hi> must needs referre to the <hi>severall acts</hi> of the same, <hi>all-full habituall love.</hi> Onely I guesse not what <hi>temptation</hi> he had to choose that <hi>expression,</hi> which he there makes use of, <hi>viz.</hi>
+                  </p>
+                  <p>
+                     <hi>[That there D. H. minceth the matter, and speaketh more cautelously]</hi> adding <hi>[that what he there saith is nothing to the matter now in hand]</hi>
+                  </p>
+                  <p>Whereas 1. those of <hi>Will-worship</hi> being the <hi>First papers</hi> writ<g ref="char:EOLhyphen"/>ten on <hi>that</hi> subject, are sure very <hi>pertinent</hi> to ascertain him of the meaning of the <hi>latter,</hi> written in <hi>defense</hi> of them; and secondly the <hi>early cautelous</hi> speaking there, might have made <hi>further la<g ref="char:EOLhyphen"/>ter caution</hi> unnecessary: and 3ly, I could not be said to <hi>mince</hi> (which to <hi>vulgar</hi> eares signifies to <hi>retract</hi> in some degree what I had said <hi>before,</hi>) and again, <hi>speak more cautiously,</hi> when that was the <hi>first</hi> time of my speaking of it.</p>
+                  <p n="17">
+                     <pb n="5" facs="tcp:199438:4"/>17. Mean-while it is <hi>manifest,</hi> and his own <hi>confession,</hi> that <hi>there these were my words,</hi> and those so <hi>cautious,</hi> that <hi>this</hi> sense of the words which he undertakes to <hi>refute,</hi> could not be <hi>affixt</hi> on them. And this I should have thought sufficient to have preserved my <hi>innocence,</hi> and <hi>forstalled</hi> his <hi>Ʋse</hi> of <hi>Con<g ref="char:EOLhyphen"/>futation.</hi>
+                  </p>
+                  <p n="18">18. But the <hi>answer</hi> to <hi>Mr. C.</hi> which occasioned it was, I think, as <hi>cautious</hi> also, 1. In the words recited by the <hi>Re<g ref="char:EOLhyphen"/>futer, viz.</hi> that <hi>Christ himself was more ardent in one act of prayer then in another.</hi> 2. In the words following in that <hi>an<g ref="char:EOLhyphen"/>swer,</hi> but not <hi>recited</hi> by him, <hi>viz.</hi> that <hi>the sincerity of this or that virtue exprest in this or that performance, is it we speake of when we say it consists in a latitude and hath degrees;</hi> where the <hi>[this or that performance] are</hi> certainly <hi>Acts</hi> of the <hi>virtue,</hi> consisting in a <hi>latitude</hi> and the having <hi>degrees (viz</hi> in that <hi>lati<g ref="char:EOLhyphen"/>tude)</hi> no way implies him that hath that <hi>virtue</hi> in that <hi>latitude (viz. Christ)</hi> to <hi>want</hi> at present; and in that sense to be <hi>ca<g ref="char:EOLhyphen"/>pable of farther degrees.</hi>
+                  </p>
+                  <p n="19">19. I am willing to look as <hi>jealously</hi> as I can on any pas<g ref="char:EOLhyphen"/>sage of my own, which falls under any mans <hi>censure;</hi> and therefore finding nothing in the words <hi>set down</hi> by him as the <hi>ground</hi> of the <hi>Refutation</hi>) which is any way <hi>capable</hi> of it, I have reviewed the <hi>whole section,</hi> and weighed every <hi>period,</hi> as <hi>suspiciously</hi> as I could; to <hi>observe</hi> whether I could <hi>draw</hi> or <hi>wrest</hi> that <hi>consequence</hi> from any <hi>other</hi> passage, not <hi>recited</hi> by him.</p>
+                  <p n="20">20. And I find none in <hi>any</hi> degree <hi>liable,</hi> except it should be this in the
+<note n="*" place="margin">p. 221. n. 1.</note> beginning of the <hi>Sect.</hi> Where setting down the <hi>argument,</hi> as it lay in the <hi>Tr. of Will-wor.</hi> I say <hi>'tis possible for the same person which so loves God</hi> (i.e. <hi>with all the heart) to love him, and expresse that love more intensely at one time than ano<g ref="char:EOLhyphen"/>ther, as appeared by the example of Christ.</hi>
+                  </p>
+                  <p n="21">21. If this be thought <hi>capable</hi> of <hi>misapprehension,</hi> by reason of the [and] <hi>disjoyning love</hi> from the <hi>expressions</hi> of it, and so the <hi>expressions</hi> belonging to the <hi>acts,</hi> the <hi>love</hi> be deemed to denote the <hi>habitual love;</hi> I must onely say, that this is a <hi>misapprehension,</hi> for that by <hi>loving with all the heart,</hi> in <hi>the first</hi> place, I certainly meant the <hi>sincere habit</hi> of <hi>Love,</hi> by <hi>love</hi> in the <hi>latter</hi> place, the
+<pb n="6" facs="tcp:199438:5"/>inward <hi>acts</hi> of <hi>love,</hi> and by the <hi>expressions</hi> of <hi>love,</hi> the <hi>out<g ref="char:EOLhyphen"/>ward expressions</hi> of those <hi>inward acts,</hi> and of <hi>those acts</hi> onely I speak, and of <hi>those expressions,</hi> when I say they are <hi>more intense at one time then another.</hi>
+                  </p>
+                  <p n="22">22. The word <hi>love,</hi> as I said, is a <hi>genus,</hi> equally compre<g ref="char:EOLhyphen"/>hending the <hi>two species, habitual</hi> and <hi>actual love,</hi> and equally applicable to either of the <hi>species,</hi> to the <hi>acts</hi> as well as <hi>ha<g ref="char:EOLhyphen"/>bit</hi> of <hi>love.</hi> And so when I say <hi>love</hi> is <hi>capable</hi> of <hi>degrees,</hi> the meaning is cleare, The <hi>generical</hi> word <hi>love</hi> restrained to the <hi>later species, i. e.</hi> considered in respect of the <hi>acts</hi> of <hi>love, gradually</hi> differenced one from the other, is that <hi>respect, ca<g ref="char:EOLhyphen"/>pable of degrees,</hi> both <hi>inwardly</hi> and in <hi>outward expressions,</hi> that <hi>act</hi> of <hi>love,</hi> that poured out, and exprest it self in the <hi>more ardent prayer,</hi> was a more <hi>intense act</hi> of <hi>love,</hi> then another <hi>act</hi> of the same <hi>habitual love,</hi> which did not so <hi>ardently expresse</hi> it self.</p>
+                  <p n="23">23. I shall explain this by the <hi>Refuters</hi> own <hi>Confession.</hi> The <hi>death of Christ,</hi>
+                     <note place="margin">
+                        <hi>p.</hi> 259.</note> saith he, <hi>was an higher expression of Christs love of us, then his poverty, hunger, or thirst.</hi> To this I subjoyn that such as the expression was, such was the <hi>act</hi> of <hi>inward love,</hi> of which that was an <hi>expression,</hi> it being certain that each of these <hi>expressions</hi> had an <hi>act</hi> of <hi>internal love,</hi> of which they were so many <hi>proportionably different expressions;</hi> And from hence I suppose it unavoidably <hi>consequent,</hi> that that <hi>act</hi> of <hi>internal love,</hi> exprest by his <hi>dying</hi> for us, was superior to those <hi>former acts,</hi> which onely exprest themselves in his <hi>po<g ref="char:EOLhyphen"/>verty,</hi> and so the same person that <hi>loved sincerely,</hi> did also <hi>love,</hi> and <hi>expresse that love more intensly at one time then at ano<g ref="char:EOLhyphen"/>ther,</hi> which was the very thing I had said in <hi>another</hi> instance. But this I have added <hi>ex abundanti</hi> more then the <hi>Refuters</hi> dis<g ref="char:EOLhyphen"/>course <hi>required</hi> of me.</p>
+                  <p n="24">24. It now onely remaines, that I consider whether this <hi>Re<g ref="char:EOLhyphen"/>futer</hi> have in the <hi>process</hi> of his <hi>discourse</hi> added any thing, where<g ref="char:EOLhyphen"/>in I may be any whit <hi>concern'd.</hi>
+                  </p>
+                  <p n="25">25. And 1. saith he, <hi>the falsehood of such an assertion is evident from the point there handled and confirmed, the abso<g ref="char:EOLhyphen"/>lute fulnesse of Christs grace, which by the general consent of the
+<pb n="7" facs="tcp:199438:5"/>Fathers and School-men was such, as that it excluded all intensive growth.</hi>
+                  </p>
+                  <p n="26">26. But to this the <hi>reply</hi> will bee easily <hi>foreseen,</hi> from the <hi>premisses,</hi> that as the point by him <hi>handled and confirmed</hi> was di<g ref="char:EOLhyphen"/>stinctly the <hi>all-fulness of habituall grace in Christ,</hi> so his <hi>proofs</hi> of it by the <hi>consent of Fathers and School-men</hi> belong still to that <hi>ful<g ref="char:EOLhyphen"/>ness of habitual grace.</hi>
+                  </p>
+                  <p n="27">27. Witness one for all, <hi>Aquinas Ser.</hi> 3. <hi>qu.</hi> 7. <hi>art.</hi> 12. <hi>ad secundum, licet virtus divina possit facere aliquid ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us &amp; melius quàm sit ha<g ref="char:EOLhyphen"/>bitualis gratia Christi, non tamen — though the divine power may make somewhat greater and better, than is the habitual grace of Christ, yet</hi>— so 'tis plain he speaks of the <hi>fulness</hi> of the <hi>habituall grace.</hi> And <hi>ad tertium. In sapientia &amp; gratia aliquis proficere potest dupliciter; uno modo secundàm ipsos habitus sapientiae &amp; gratiae aug<g ref="char:EOLhyphen"/>mentatos, &amp; sic Christus in eis non proficiebat. Alio modo secundùm effectus, in quantum aliquis sapient or a &amp; virtuosiora opera facit, &amp; sic Christus proficieb at sapientia &amp; gratiâ, sicut &amp; aetate, quia secun<g ref="char:EOLhyphen"/>dùm processum aetatis perfectior a opera faciebat,— et in his quae sunt ad Deum, et in his quae sunt ad homines. One may increase in wis<g ref="char:EOLhyphen"/>dome and grace two waies, one way according to the habits of them increased, and so Christ increased not; another way, according to the effects; when any doth more wise and virtuous workes; and so Christ increased in Wisedome and grace, as he did in age, because accord<g ref="char:EOLhyphen"/>ing to the processe of his age, he did more perfect workes, and that both in things belonging to God, and men also.</hi>
+                  </p>
+                  <p n="28">28. And thus are the <hi>Schoolmen</hi> understood by the <hi>Refuter</hi> himself, in his producing their <hi>testimonies,</hi> as appeares by the <hi>expresse</hi> words [<hi>habitual grace</hi> p. 260. lin. <hi>penult.</hi> and <hi>holiness,</hi> and the <hi>Image of God in him</hi>] p. 261. lin. 13. And so 'tis most cleare, their <hi>consent</hi> belongs not, even in his <hi>own</hi> opinion, to the matter I had, and have in hand, no way <hi>denying</hi> but <hi>asserting</hi> a <hi>capacity</hi> of <hi>degrees</hi> among the <hi>acts</hi> of <hi>Christs</hi> love of <hi>God,</hi> and the <hi>expressions</hi> of it.</p>
+                  <p n="29">29. <hi>Secondly, he will heare the Doctors objection, and con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>sider of what weight it is.</hi>
+                  </p>
+                  <p>Objection? against what? against the <hi>fulness of habitual grace
+<pb n="8" facs="tcp:199438:6"/>in Christ?</hi> sure never any was by me urged against it. And he cannot now <hi>think</hi> there was. The degrees of <hi>intenseness</hi> obser<g ref="char:EOLhyphen"/>vable in the several <hi>acts of Christs love,</hi> his <hi>praying</hi> more <hi>ardently at one time then another,</hi> was all that I concluded from that <hi>text, Luke</hi> 22.44. and that is nothing to his <hi>habituall love.</hi>
+                  </p>
+                  <p n="30">30. But even to this he is pleased to frame <hi>answers</hi> (though I hope his <hi>doctrine</hi> of the <hi>fulnesse of Christs habitual grace</hi> be no way <hi>concern'd</hi> in it) and to these I shall briefly attend him, as my <hi>last</hi> stage in this no very long voyage.</p>
+                  <p n="31">31. <hi>And</hi> 1. <hi>saith he, the vulgar translation renders</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>prolixius;</hi> and <hi>if this version bee good, then there is no place for the Doctors objection.</hi>
+                  </p>
+                  <p>But though I seek no <hi>advantage</hi> by that <hi>vulgar</hi> reading, yet thinking it a duty of <hi>reverence</hi> to that <hi>version,</hi> to take leave <hi>ci<g ref="char:EOLhyphen"/>villy,</hi> whensoever I <hi>depart</hi> from it (wherein I shall have the suf<g ref="char:EOLhyphen"/>frage of <hi>Protestants</hi> as <hi>learned</hi> in both the <hi>Languages</hi>
+                     <note n="*" place="margin">Paulus Fagius, Praf. in Vers. Chal. Paraph. in Pentat.</note>
+                     <hi>Hebrew</hi> and
+<note n="*" place="margin">Joh. Boys Eliens. vet, Interpr. cum Beza—col<g ref="char:EOLhyphen"/>lat.</note>
+                     <hi>Greek,</hi> as any) and that I may to the utmost observe the <hi>Refuters</hi> steps, I shall not utterly <hi>reject</hi> it.</p>
+                  <p n="32">32. 'Tis certain <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> doth primarily signifie <hi>extension,</hi> and that properly belongs to <hi>length,</hi> and so the <hi>comparative</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to a <hi>greater degree</hi> of that <hi>length.</hi> And if it bee granted, that it so signifie here, there will yet be <hi>place equally for my conclu<g ref="char:EOLhyphen"/>sion.</hi>
+                  </p>
+                  <p n="33">33. For in every <hi>act</hi> of <hi>Prayer,</hi> be it but the <hi>shortest</hi> ejacula<g ref="char:EOLhyphen"/>tion, sent out by <hi>Christ,</hi> I suppose (and my <hi>Refuter</hi> must not <hi>doubt</hi> of it) there was some <hi>degree</hi> of <hi>ardency</hi> or <hi>intension;</hi> And then sure according to the <hi>multiplying</hi> of those <hi>acts, lengthen<g ref="char:EOLhyphen"/>ing</hi> that <hi>prayer,</hi> there must still in <hi>Christ</hi> (I say not in every one of us) be a <hi>proportionable</hi> multiplication of those <hi>degrees,</hi> and so <hi>parallel</hi> to a greater <hi>length;</hi> a greater <hi>intension.</hi>
+                  </p>
+                  <p n="34">34. This is <hi>cleare,</hi> and I need not adde (what else I might) that the very <hi>multiplication</hi> of <hi>more acts</hi> of any <hi>virtue,</hi> supposing it equally <hi>sincere</hi> in the <hi>habit</hi> (and such is the length of Prayer, when it is in Christ) is more <hi>valuable</hi> in the sight of <hi>God</hi> (and that argues it more <hi>excellent</hi>) than the <hi>smaller</hi> number of those <hi>acts</hi> would be, and proportionably more <hi>abundantly rewarded</hi>
+                     <pb n="9" facs="tcp:199438:6"/>by him, who <hi>rewardeth</hi> every man not onely according to the <hi>sincerity</hi> of his <hi>heart,</hi> but also <hi>secundùm opera, according to the multiplied acts or workes,</hi> the <hi>more abundant labour</hi> proceeding from this <hi>sincerity.</hi> And so that will suffice for his <hi>first Answer.</hi>
+                  </p>
+                  <p n="35">35. <hi>But then</hi> 2. Saith he, <hi>suppose we stick unto our own translation, yet the place may fairly be so interpreted, as that it may no wayes advantage the purpose of the Doctor. For</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>more earnestly, may be considered in reference unto either the object unto whom he prayed, God; or the matter, a<g ref="char:EOLhyphen"/>gainst which he prayed, the evils with which he conflicted in his agony.</hi>
+                  </p>
+                  <p n="1">1. <hi>Then, saith he, he did not in his agony pray more earnestly then at other times, if we consider his prayer in reference unto the object, unto whom it was, God. The Religion, and in<g ref="char:EOLhyphen"/>ward worship of his prayer, was for degrees alwayes alike equal. His trust and dependance upon God, love of zeal and devotion towards God, from which all his prayers flowed, were not at one time more intense then at another.</hi>
+                  </p>
+                  <p>
+                     <hi>But now</hi> 2. <hi>He prayed more earnestly in his agony then at other times, in regard of the matter, against which he prayed, the evils which he encountred with, which if they were not grea<g ref="char:EOLhyphen"/>ter, then those that he deprecated in the former prayer, v.</hi> 42. <hi>yet at least they made a greater impression upon his humane na<g ref="char:EOLhyphen"/>ture; for they put him into a bloody sweat. Being in an agony, he prayed more earnestly, and his sweat was as it were great drops of blood, falling down to the ground.</hi>
+                  </p>
+                  <p n="36">36. These are the words of his <hi>second answer,</hi> and they are in the second part, the very <hi>distinct confession</hi> of all that I pre<g ref="char:EOLhyphen"/>tend in this matter (and therefore I need not make any <hi>re<g ref="char:EOLhyphen"/>flections</hi> on the <hi>first</hi> part of them) For whatsoever, or how great soever the <hi>occasion</hi> of the <hi>increase</hi> of his <hi>intension</hi> was (which I am willing to beleeve <hi>proportionable</hi> to the <hi>degree</hi> of the <hi>intension,</hi> a very weighty <hi>occasion</hi> that thus inflamed his <hi>ar<g ref="char:EOLhyphen"/>dency</hi>) yet still, 'tis confest, that on this <hi>occasion,</hi> he now prayed <hi>more earnestly</hi> then at <hi>other times,</hi> that which now approached made a <hi>greater impression on his humane nature;</hi> which what is it but a <hi>proof</hi> of the point by me asserted, that <hi>Christ</hi> him<g ref="char:EOLhyphen"/>self was <hi>more ardent in one act of prayer</hi> (this in his <hi>agonie</hi>) then in <hi>another.</hi>
+                  </p>
+                  <p n="37">
+                     <pb n="10" facs="tcp:199438:7"/>37. As for the <hi>greatnesse</hi> of the <hi>occasion,</hi> so <hi>confest ly great</hi> as to <hi>cast him into that prodigious sweat,</hi> falling <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>as it were drops of blood,</hi> that may <hi>testifie,</hi> but it can<g ref="char:EOLhyphen"/>not <hi>prejudge</hi> the <hi>ardency,</hi> which was occasioned thereby.</p>
+                  <p n="38">38. Twas not in <hi>Christ</hi> (he will easily suppose with me) as it is oft discernable in <hi>many</hi> of <hi>us,</hi> that those which have re<g ref="char:EOLhyphen"/>ally no <hi>sincerity</hi> of <hi>love</hi> or <hi>zeal</hi> to <hi>God,</hi> can yet like the <hi>Mari<g ref="char:EOLhyphen"/>ners</hi> in the <hi>tempest,</hi> by some pressing <hi>fear</hi> or danger be awaked to but <hi>formal,</hi> and, be they never so <hi>loud,</hi> but <hi>hypocritically zea<g ref="char:EOLhyphen"/>lous</hi> prayers.</p>
+                  <p n="39">39. The <hi>ardency</hi> in <hi>Christ</hi> was <hi>sincere ardency,</hi> accompanied with <hi>acts</hi> of <hi>love</hi> and <hi>trust</hi> of the same <hi>temper,</hi> and the height<g ref="char:EOLhyphen"/>ning it <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, was an <hi>addition</hi> of <hi>degrees</hi> to that <hi>act</hi> of <hi>ardency,</hi> and so of <hi>prayer,</hi> and proportionably of <hi>love</hi> and <hi>trust</hi> in <hi>God,</hi> above either what there was, or, what there was <hi>oc<g ref="char:EOLhyphen"/>casion</hi> for, at <hi>other</hi> times.</p>
+                  <p n="40">40. Of this I shall hope it is <hi>possible</hi> to finde some <hi>instan<g ref="char:EOLhyphen"/>ces</hi> among men (of whose <hi>graces</hi> it can be no <hi>blasphemie</hi> to af<g ref="char:EOLhyphen"/>firm, that they are <hi>capable of degrees</hi>) suppose we <hi>a sincerely pi<g ref="char:EOLhyphen"/>ous</hi> man, a true <hi>lover</hi> of <hi>God,</hi> and no <hi>despiser</hi> of his <hi>poor perse<g ref="char:EOLhyphen"/>cuted Church,</hi> and suppose we, as it is very supposeable, that at <hi>some</hi> time the <hi>seas roar,</hi> the <hi>tempest</hi> be at its <hi>hight,</hi> and the <hi>waves beat</hi> violently upon this <hi>frail brittle</hi> vessel, may it not be a <hi>season</hi> for that <hi>pious</hi> mans <hi>ardency</hi> to receive some <hi>growth?</hi> for his <hi>zeal</hi> to be <hi>emulous</hi> of those <hi>waves,</hi> and poure it self out more <hi>profusely</hi> at such, then at a <hi>calmer season?</hi> I hope there be some at <hi>this</hi> time among us, in whom this <hi>point</hi> is really <hi>exem<g ref="char:EOLhyphen"/>plified,</hi> if it be not, it is an effect of <hi>want,</hi> not <hi>fulness</hi> of <hi>love.</hi> But I <hi>need</hi> not thus to <hi>inlarge;</hi> It is not by this <hi>Refuter</hi> denied of the <hi>person</hi> of <hi>Christ,</hi> and that is my <hi>intyre</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in reference either to <hi>Mr.</hi> C. or to <hi>him,</hi> the <hi>utmost</hi> that <hi>I</hi> under<g ref="char:EOLhyphen"/>took to <hi>demonstrate</hi> then, or to justifie now.</p>
+                  <p n="41">41. And so I shut up this <hi>hasty</hi> paper, hoping that he which <hi>invited,</hi> and <hi>promised</hi> it a <hi>welcome,</hi> in case it were given him in a <hi>fair and Scholastical way,</hi> having nothing to accuse in it, as to the <hi>first Epithet,</hi> will <hi>abate</hi> somewhat in reference to the second, and allow it a <hi>friendly,</hi> though being <hi>unqualified,</hi> it pretend not to a more <hi>hospitable reception.</hi>
+                  </p>
+                  <trailer>The end.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:199438:7"/>
+                  <p>᾿ΕΥΣΧΗΜΌΝΩΣ ΚΑῚ ΚΑΤᾺ ΤΆΞΙΝ: OR, THE GROUNDS OF UNIFORMITY From 1 <hi>Cor.</hi> 14.40.</p>
+                  <p>
+                     <hi>Vindicated</hi> from Mr JEANES'S <hi>exceptions</hi> to <hi>One</hi> passage in the <hi>View</hi> of the DIRECTORY.</p>
+                  <p>By <hi>H. Hammond</hi> D. D.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>J. G.</hi> for <hi>Richard Royston,</hi> at the Angel in <hi>Ivy-</hi>Lane, <hi>M.DC.LVII.</hi>
+                  </p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:199438:8"/>
+                  <pb n="3" facs="tcp:199438:8"/>
+                  <epigraph>
+                     <bibl>
+                        <hi>1 Cor. 14.40.</hi>
+                     </bibl>
+                     <q>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Decently, and according to appointment.</q>
+                  </epigraph>
+                  <p n="1">1. <seg rend="decorInit">S</seg>Ince the publishing that <hi>Answer</hi> to Mr <hi>J.</hi> concerning the <hi>degrees of ardency in Christ</hi>'s <hi>prayer,</hi> I am advertised of <hi>another</hi> passage in that <hi>volume,</hi> in which I am concern'd, re<g ref="char:EOLhyphen"/>lating to some words of mine in the <hi>view</hi> of the <hi>Directory</hi> pag. 19. on the head of <hi>Ʋniformity</hi> in <hi>Gods service,</hi> and particularly respecting my <hi>rendring</hi> of the <hi>Apostle</hi> 1 Cor. 14.40. <hi>Let all things be done</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p n="2">2. These indeed I thus rendred <hi>[decently, and according to or<g ref="char:EOLhyphen"/>der, or appointment]</hi> and affirmed the importance of that place to be, that all be done in the <hi>Church according to custome,</hi> and <hi>appointment,</hi> rendring this <hi>reason</hi> of the <hi>former, because it was implied</hi> in <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>decently (custome being the onely rule of de<g ref="char:EOLhyphen"/>cency</hi> &amp;c.) and of the <hi>latter,</hi> because the <hi>words</hi> do <hi>literally</hi> im<g ref="char:EOLhyphen"/>port this, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>i. e. according to order or appointment.</hi>
+                  </p>
+                  <p n="3">3. To the former of these he makes his <hi>first exception,</hi> thus, <hi>[He dares not affirm that this is the immediate sense of the place, but onely that it is implied; It cannot be denied but that decency doth imply such customes, the omission of which necessarily infer
+<pb n="4" facs="tcp:199438:9"/>indecency, but that the omission of such ceremonies as ours, doth in<g ref="char:EOLhyphen"/>fer undecency, the Doctor &amp; all his party can never make good; What undecency can the Doctor prove to be in the administration of Bap<g ref="char:EOLhyphen"/>tisme without the Cross, as also in publick prayers and preaching without a Surplice? But of this see farther in</hi> Ames <hi>in the places but now quoted; The Doctor may perhaps look upon him as an in<g ref="char:EOLhyphen"/>considerable adversary. But we shall think his Arguments consi<g ref="char:EOLhyphen"/>derable, until the Doctor, or some other of his party give a satisfa<g ref="char:EOLhyphen"/>ctory answer unto them. In the mean while let us examine the proof that the Doctor brings for this sense: and it is, because cu<g ref="char:EOLhyphen"/>stome is the onely rule of decency.</hi>
+                  </p>
+                  <p>
+                     <hi>This proposition, though very strange, is prooflesse; and there<g ref="char:EOLhyphen"/>fore we might as well reject it, as the Doctor dictates it. But I shall add a confutation of it from these following arguments.</hi>
+                  </p>
+                  <p n="1">1. <hi>If custome be the onely rule of decency, then nothing else can be a rule thereof besides custome; but this is false, for the light and law of nature, is also a rule thereof, and that infallible.</hi>
+                  </p>
+                  <p n="2">2. <hi>Nothing can be undecent, that is agreeable unto the onely rule of decency. But divers things are undecent, which yet can plead custome: and this is so evident, as that I will not so much under<g ref="char:EOLhyphen"/>value the Doctors judgment as to endeavour any proofs thereof. It is impossible that the onely rule of decency should be undecent: But yet it is very possible that many customes should be undecent, and therefore I shall conclude that custome is not the onely rule of de<g ref="char:EOLhyphen"/>cency.</hi>
+                  </p>
+                  <p n="3">3. <hi>Lastly, unto custome, as you may see in both</hi> Aristotle <hi>and</hi> Aquinas, <hi>the frequent usage of a thing is required. But now there may be decency or handsomeness in the first usage of a thing; and of this decency custome is not the rule, and therefore it is not the onely rule of decency.</hi>
+                  </p>
+                  <p n="4">4. The <hi>first</hi> thing here charged on me is <hi>timidity,</hi> that <hi>I dare not say,</hi> what I said not, and this attended with a <hi>concession</hi> (in a limited sense) of the <hi>truth</hi> of what I did say; the <hi>second,</hi> is the <hi>impertinence,</hi> or <hi>unsufficiency</hi> of that, in that <hi>limited</hi> sense, to <hi>prove</hi> what he conceives I would <hi>have</hi> from it, <hi>viz.</hi> that <hi>the omission of our ceremonies doth infer indecency;</hi> And the <hi>proof</hi> of this charge <hi>twofold,</hi> 1. by way of <hi>question,</hi> founded in <hi>two</hi> in<g ref="char:EOLhyphen"/>stances, the <hi>Crosse</hi> in <hi>Baptisme,</hi> and the <hi>Surplice</hi> in <hi>publick pray<g ref="char:EOLhyphen"/>er
+<pb n="5" facs="tcp:199438:9"/>and preaching;</hi> 2. by <hi>reference</hi> to <hi>Ames,</hi> and resolving to think his <hi>arguments considerable,</hi> till a <hi>satisfactory answer be gi<g ref="char:EOLhyphen"/>ven them.</hi> And his <hi>third charge</hi> is, my using an <hi>unsufficient proof</hi> to prove my <hi>interpretation, viz.</hi> this <hi>because custome is the onely rule of decency</hi>] which he <hi>confutes</hi> by three <hi>argu<g ref="char:EOLhyphen"/>ments.</hi>
+                  </p>
+                  <p n="5">5. These <hi>three charges</hi> I shall now very briefly <hi>examine,</hi> and if I mistake not, clearly <hi>evacuate.</hi> The <hi>first</hi> by assuring him, 1. that I did <hi>dare</hi> to say, and indeed <hi>said</hi> (as I then thought, <hi>perspicuously</hi>) the full of what I <hi>meant,</hi> but that it was no way incumbent on me, to <hi>say</hi> either what I did not <hi>mean,</hi> or what Mr <hi>J.</hi> or any other should be justly able to <hi>charge</hi> of want of <hi>truth</hi> in the least degree. And 2. if what I said cannot, as he confesses, be <hi>denied,</hi> to have <hi>truth</hi> in it in <hi>one</hi> sense, I demand why must it be a not <hi>daring</hi> (which is wont to signifie <hi>timidity,</hi> or <hi>cowardice</hi>) that I affirmed it not in <hi>another</hi> sense, wherein he doth not <hi>consent</hi> to it?</p>
+                  <p n="6">6. To make short, and prevent all <hi>possibility</hi> of his, or any mans farther <hi>mistaking</hi> my words, I shall hasten to tell him the full of my <hi>meaning</hi> in that passage, that [<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>decently</hi>] im<g ref="char:EOLhyphen"/>plies <hi>[according to custome] viz.</hi> that in such things as these, of which then I spake, <hi>gestures, habites</hi> and the <hi>like circumstan<g ref="char:EOLhyphen"/>ces</hi> of <hi>Gods publick service,</hi> wherein the <hi>Apostle</hi> prescribes care of decency, 'tis necessary to observe the <hi>customes</hi> of the place wherein we live: This I then thought sufficiently explicated by <hi>exemplifying</hi> in mens <hi>wearing long hair,</hi> which the <hi>Apostle</hi> pro<g ref="char:EOLhyphen"/>ved <hi>indecent</hi> by its being <hi>against</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>i. e.</hi> saith <hi>Suidas,</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, a <hi>custome</hi> of some <hi>continuance</hi> in that place (which yet in <hi>women</hi> there, and in <hi>men</hi> in <hi>other</hi> places, where that <hi>cu<g ref="char:EOLhyphen"/>stome</hi> prevail'd not, had nothing <hi>indecent</hi> in it.)</p>
+                  <p n="7">7. But this <hi>exemplification</hi> of my meaning he thought fit to <hi>con<g ref="char:EOLhyphen"/>ceal</hi> from the Reader, and supply that <hi>vacuity</hi> onely with an &amp;c. yet reciting at <hi>length,</hi> to a word, what was <hi>immediately</hi> before, and after it. His design in so doing I <hi>judge</hi> not, but shall endeavour to undeceive the <hi>Reader</hi> for the future, by far<g ref="char:EOLhyphen"/>ther inlarging on it.</p>
+                  <p n="8">8. All people, I think, in the world have some <hi>outward</hi> signi<g ref="char:EOLhyphen"/>fications, and <hi>expressions</hi> of <hi>Reverence,</hi> but all have not the
+<pb n="6" facs="tcp:199438:10"/>
+                     <hi>same,</hi> but according to <hi>Topical customes</hi> some <hi>different,</hi> some <hi>contrary</hi> to others. We of this, and all our neighbour Nati<g ref="char:EOLhyphen"/>ons express <hi>reverence</hi> by <hi>uncovering the head,</hi> the <hi>Turkes</hi> do the <hi>contrary.</hi> Again among <hi>Christians,</hi> 'tis <hi>customary</hi> for men <hi>so</hi> to express their <hi>Reverence,</hi> but for <hi>women,</hi> saith the <hi>Apostle,</hi> it is not, but the <hi>contrary;</hi> and so still it is among <hi>us.</hi> Nay it was once among some <hi>hethens</hi> (that worshipt <hi>Mercury</hi>) in act of the <hi>highest</hi> reverence, even of <hi>adoration,</hi> to <hi>throw stones</hi> at their <hi>God,</hi> among others to <hi>cut themselves with lances,</hi> when they were a praying to him. And it can be no news to Mr <hi>J.</hi> that these <hi>customes</hi> were not observed by <hi>other</hi> countreys; the <hi>Jews</hi> that <hi>threw stones</hi> at <hi>Christ,</hi> and the <hi>Daemoniack</hi> that <hi>cut himself</hi> with them, were neither of them <hi>interpretable</hi> to wor<g ref="char:EOLhyphen"/>ship him.</p>
+                  <p n="9">9. This therefore was no <hi>dark,</hi> but <hi>visible</hi> foundation of what I said; In affigning any <hi>rite</hi> or <hi>ceremony</hi> for the <hi>service</hi> of <hi>God, decency,</hi> saith the <hi>Apostle,</hi> was to be observed, the onely <hi>rule</hi> to judge of that, is, say I, to consider the <hi>customes</hi> of that <hi>particular</hi> place, of which we consult. Where <hi>bowing</hi> the <hi>knee,</hi> or <hi>kneeling</hi> on the ground, is customarily used as a <hi>token</hi> of <hi>re<g ref="char:EOLhyphen"/>verence,</hi> where <hi>putting off</hi> or <hi>keeping off</hi> the <hi>hat,</hi> there the <hi>choice</hi> of ceremonies must be made with respect to those <hi>parti<g ref="char:EOLhyphen"/>cular customes;</hi> Here 'tis evident that I mean not the <hi>frequent usage</hi> of that <hi>ceremony,</hi> in <hi>opposition</hi> to a <hi>first</hi> usage of it, as Mr <hi>J.</hi> is willing to <hi>mistake</hi> me, and found <hi>one</hi> of his arguments on that <hi>mistake,</hi> but the <hi>standing custome</hi> of the place, by which, as by an <hi>argument</hi> or <hi>evidence,</hi> such a <hi>ceremony</hi> is demonstrated to be a <hi>reverential</hi> respect, and so (for the service of <hi>God</hi> to whom all <hi>reverence</hi> is due) <hi>decent</hi> in that place, though in <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> or in the <hi>estimation</hi> of all other men, it be not so.</p>
+                  <p n="10">10. Certainly this is so <hi>evident</hi> in it self, and so undeniably the importance of <hi>my</hi> words, that there can be no need farther to <hi>inlarge</hi> on it, much lesse to <hi>examine</hi> the weight, or meaning of his <hi>concession,</hi> that <hi>it cannot be denyed but that decency doth imply such customes, the omission of which necessarily infers indecency.</hi>]</p>
+                  <p n="11">11. This saying of his some <hi>Readers</hi> may look on with <hi>Reve<g ref="char:EOLhyphen"/>rence,</hi> as not readily comprehending the <hi>importance</hi> of it, o<g ref="char:EOLhyphen"/>thers may chance to <hi>despise</hi> it under the appearance of a <hi>tauto<g ref="char:EOLhyphen"/>logie.</hi>
+                     <pb n="7" facs="tcp:199438:10"/>But upon pondering, it will appeare that the <hi>Author</hi> had a <hi>meaning</hi> in it, which he designed should bring in some <hi>advan<g ref="char:EOLhyphen"/>tage</hi> to his cause, and without which he was not likely to <hi>ad<g ref="char:EOLhyphen"/>vance</hi> far, or succeed in it.</p>
+                  <p n="12">12. Some <hi>customes</hi> we know there are, which are so highly <hi>de<g ref="char:EOLhyphen"/>cent,</hi> as that the <hi>omission</hi> of them <hi>necessarily infers indecency;</hi> But what are they? why, such as the <hi>law</hi> of (at least <hi>Lapst) nature</hi> prescribes, <hi>covering of nakednesse,</hi> and the like; of which tis evident among all that have not learnt of <hi>Carneades</hi> industriously to <hi>rase</hi> out all <hi>natural</hi> measures of <hi>honest</hi> and <hi>disho<g ref="char:EOLhyphen"/>nest,</hi> that the <hi>omission of them inferres indecency,</hi> yea and <hi>neces<g ref="char:EOLhyphen"/>sarily</hi> inferres it, this sort of <hi>decency</hi> being <hi>natural</hi> to all men, that ever were, or shall be in the world, born and educated in what <hi>nation,</hi> or <hi>inured</hi> to what <hi>customes</hi> soever, and this the very <hi>first</hi> houre after our first parents <hi>fall,</hi> before any <hi>custome</hi> had been <hi>contracted</hi> which might <hi>recommend</hi> it to them.</p>
+                  <p n="13">13. And as of these his <hi>Rule</hi> is true, that the <hi>omission</hi> of <hi>these ne<g ref="char:EOLhyphen"/>cessarily inferres</hi> undecency, so it is in a manner proper to these, and belongs not to any other sort of things, whose <hi>decency</hi> flowes but from some <hi>positive command</hi> though it be of <hi>God,</hi> or <hi>custome</hi> or <hi>command</hi> of <hi>men.</hi> To such things whose <hi>decency</hi> flowes from any <hi>command</hi> either of <hi>God</hi> or <hi>man,</hi> this <hi>rule</hi> can<g ref="char:EOLhyphen"/>not be <hi>fully</hi> applied, for that <hi>command might</hi> have been <hi>not</hi> gi<g ref="char:EOLhyphen"/>ven, or there might be a <hi>space</hi> before it was given, or a <hi>people</hi> to whom it was <hi>not</hi> given, and then in <hi>any</hi> of those cases, the <hi>omission</hi> would not be <hi>indecent</hi> to whom the <hi>law</hi> was <hi>not</hi> given; and so it doth not <hi>necessarily</hi> and <hi>absolutely,</hi> but onely <hi>depen<g ref="char:EOLhyphen"/>dently</hi> on that <hi>law,</hi> and <hi>conditionally, inferre indecency;</hi> so in like manner the <hi>Rule</hi> holds not in those things, whose <hi>decency</hi> is introduced onely by <hi>custome,</hi> for that, as <hi>Mr. I.</hi> truely saith, <hi>arising from frequency of actions,</hi> it must again be granted, that there was a <hi>time</hi> when that which now is <hi>custome,</hi> was <hi>new,</hi> and so <hi>not custome,</hi> and again there are, or may be <hi>nations,</hi> with whom that <hi>custome</hi> (whatsoever can be instanced in) hath not <hi>prevailed,</hi> which <hi>prejudges</hi> still the <hi>necessity</hi> spoken of, that such <hi>omission</hi> should <hi>inferre indecency.</hi>
+                  </p>
+                  <p n="14">14. And so we see the <hi>summe</hi> of <hi>Mr I.</hi> his liberal <hi>concession, viz;</hi> that <hi>decency</hi> implies <hi>naturall decency,</hi> or such <hi>customes,</hi>
+                     <pb n="8" facs="tcp:199438:11"/>which are <hi>naturally decent,</hi> and so the <hi>omission</hi> of them <hi>natu<g ref="char:EOLhyphen"/>rally indecent;</hi> and if the <hi>Dr.</hi> or his <hi>party</hi> do not <hi>prove,</hi> or make good, that the <hi>administration</hi> of <hi>baptisme without the crosse,</hi> is against the <hi>law of nature,</hi> that the <hi>preaching without the surplice</hi> beares <hi>analogy</hi> to the <hi>disclosing</hi> of <hi>Nakednesse,</hi> he is utterly <hi>refu<g ref="char:EOLhyphen"/>ted</hi> by <hi>Mr I.</hi> in his interpretation of <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, or notion of <hi>de<g ref="char:EOLhyphen"/>cency.</hi>
+                  </p>
+                  <p n="15">15. That this is indeed his <hi>meaning</hi> (though somewhat <hi>darkned</hi> in that his <hi>expression</hi>) will appear but consequent to the <hi>two</hi> things, which he hath premised in this matter, from <hi>Amesius</hi> his notion of <hi>decency,</hi> p. 64. in <hi>Marg:</hi> 1. that <hi>decency requires not that any sacred things be instituted de novo, but onely that those things which are instituted by God, be used in that man<g ref="char:EOLhyphen"/>ner which is agreeable to the dignity of them,</hi> 2. <hi>that as order so decency belongs to civil offices, as well as sacred things, in which in<g ref="char:EOLhyphen"/>decorum est vitium oppositum debito illi modo, qui requiritur ad eorum justum finem et usum consequendum, indecency is a vice opposed to that due manner, which is required to the obtaining the just end and use of those things.</hi> Now if in the former of these, the <hi>mode,</hi> he speakes of, as <hi>agreeable to the dignity of those things</hi> which are <hi>instituted,</hi> be it self supposed by him to be <hi>instituted</hi> by <hi>men,</hi> then must he acknowledge <hi>humane power</hi> of <hi>instituting ceremonies,</hi> which being so <hi>contrary</hi> to his <hi>design,</hi> I must resolve not to be <hi>intended</hi> by him; but rather that as the <hi>sacred</hi> things are <hi>instituted</hi> by <hi>God,</hi> so the <hi>mode,</hi> which is <hi>consentaneous to their dignity</hi> is <hi>instituted</hi> by <hi>God</hi> also, and that nothing is <hi>decent in sa<g ref="char:EOLhyphen"/>cris,</hi> which is not so <hi>instituted.</hi> And so likewise on the <hi>second head,</hi> that of <hi>civil offices.</hi> For that <hi>indecency,</hi> which is a <hi>vice</hi> or <hi>sin,</hi> must be contrary to some <hi>law</hi> of <hi>Gods,</hi> and so also that which is <hi>opposed to the due manner</hi> which is <hi>required,</hi> and so is <hi>ne<g ref="char:EOLhyphen"/>cessary</hi> either <hi>necessitate medii,</hi> or <hi>praecepti</hi> also, to obteining a <hi>just end,</hi> this sure is more than the <hi>omission</hi> of an <hi>indifferent cu<g ref="char:EOLhyphen"/>stome,</hi> which may or may not be <hi>continued</hi> without any <hi>offence</hi> against <hi>nature,</hi> even the <hi>omission</hi> of strict <hi>universal</hi> duty, either <hi>natural decency,</hi> or somewhat that beares <hi>proportion</hi> with it.</p>
+                  <p n="16">16. Now this being thus far explained, it is time to close with <hi>Mr I.</hi> and mind him, what he cannot but know, that the <hi>decency</hi> which I said <hi>implied custome,</hi> is certeinly <hi>another</hi> thing from <hi>na<g ref="char:EOLhyphen"/>tural
+<pb n="9" facs="tcp:199438:11"/>decency,</hi> and hath place onely in those things, the <hi>omit<g ref="char:EOLhyphen"/>ting</hi> of which doth not <hi>necessarily inferre indecency.</hi> That <hi>omis<g ref="char:EOLhyphen"/>sion</hi> which <hi>necessarily inferres indecency, inferres</hi> it in <hi>all</hi> that e<g ref="char:EOLhyphen"/>ever did, or <hi>shall omit</hi> it; we know in <hi>logick,</hi> that no <hi>pro<g ref="char:EOLhyphen"/>pesition</hi> is <hi>necessary,</hi> which is not <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, true in the <hi>whole sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cies,</hi> of <hi>all,</hi> and every one, and I leave it to his judgement, whether he think the <hi>Dr.</hi> and his <hi>party</hi> (i.e. <hi>Praelatists,</hi> I sup<g ref="char:EOLhyphen"/>pose,) do conceive, that <hi>Adam</hi> (whether in, or out of <hi>para<g ref="char:EOLhyphen"/>dise) Noah</hi> in, or out of the <hi>Arke,</hi> &amp;c. were obliged to <hi>pray</hi> in <hi>Surplices,</hi> under pain of <hi>indecency?</hi> And so (in his <hi>other</hi> in<g ref="char:EOLhyphen"/>stance) that <hi>John Baptist,</hi> that <hi>Christ,</hi> or (because the <hi>text</hi> saith that he <hi>baptized not but his disciples</hi>) that those <hi>disciples,</hi> even be<g ref="char:EOLhyphen"/>fore the <hi>death</hi> of <hi>Christ,</hi> might not <hi>baptize</hi> any without the <hi>fign</hi> of the <hi>Crosse,</hi> but under the same <hi>penalty?</hi>
+                  </p>
+                  <p n="17">17. Nay ti's allready past <hi>question,</hi> that <hi>Mr I.</hi> in his <hi>first argu<g ref="char:EOLhyphen"/>ment</hi> against my <hi>dictate</hi> (as he calls it) saith, that the <hi>light and law of Nature is also a rule of decency,</hi> and so not <hi>onely custome:</hi> And if so, then <hi>custome</hi> is a <hi>rule of decency also,</hi> and not <hi>onely the Law and light of Nature,</hi> and where <hi>custome,</hi> and not the <hi>light</hi> of <hi>Nature</hi> is the <hi>rule,</hi> there the <hi>omission</hi> of that doth not <hi>necessarily inferre indecency.</hi> And of such <hi>decency</hi> alone it is evi<g ref="char:EOLhyphen"/>dent that I spake, on the <hi>head</hi> of <hi>Ʋniformity,</hi> (and could not speake <hi>sense,</hi> if I spake, either of any <hi>other,</hi> or of the <hi>General notion</hi> of <hi>Decency,</hi> which is competible to any <hi>other</hi>) and from thence it followes demonstratively, that of that <hi>Decency</hi> of which I spake, (though not of that, of which it is <hi>certain</hi> I <hi>spake</hi> not) still <hi>Custome is the onely rule of decency.</hi>
+                  </p>
+                  <p>This therefore I hope may serve in <hi>answer</hi> to his <hi>first charge,</hi> that of my <hi>timidity, that I dared not say,</hi> what I <hi>said</hi> not; toge<g ref="char:EOLhyphen"/>ther with a view of his <hi>concession</hi> of the truth of what I did say, and the wary <hi>limitation</hi> of that <hi>concession.</hi>
+                  </p>
+                  <p n="18">18. <hi>Secondly</hi> then to his <hi>second charge,</hi> the <hi>unsufficiency</hi> of that <hi>limited</hi> truth (which is the <hi>utmost</hi> he will yield my proposition) <hi>to prove what I would have from it</hi>] It will soon appear of how <hi>little</hi> force it is, when 1. my <hi>meaning</hi> was quite <hi>another</hi> thing from what he affixt to my words, or yielded me in his <hi>limited</hi> concession, as hath already been largely manifested; and 2. my <hi>conclusion is</hi> regularly <hi>consequent</hi> to that which was <hi>alone</hi> my
+<pb n="10" facs="tcp:199438:12"/>
+                     <hi>meaning.</hi> This latter the <hi>addition</hi> of a few words will clear also.</p>
+                  <p n="19">19. My <hi>conclusion designed</hi> in that <hi>Section,</hi> was the justifying of <hi>Ʋniformity</hi> of <hi>ceremonies</hi> in the <hi>service of God,</hi> and one of the grounds to support that, the <hi>decency</hi> of those <hi>ceremonies,</hi> where<g ref="char:EOLhyphen"/>in all should joyn, and that <hi>decency ruled,</hi> and judged of by the <hi>custome</hi> of the <hi>place,</hi> in which such or such a <hi>ceremony</hi> was an <hi>usual</hi> indication, and expression of that <hi>reverence,</hi> which being due from all <hi>inferiours</hi> to their <hi>superious,</hi> is much more due from all <hi>Christians</hi> to <hi>God.</hi>
+                  </p>
+                  <p n="20">20. In these it is certain, <hi>custome</hi> is the <hi>rule</hi> and the <hi>onely rule of decency;</hi> Neither <hi>Nature</hi> nor <hi>Gods Law</hi> obliges all man kind to <hi>this,</hi> or <hi>that</hi> expression of <hi>reverence.</hi> Several <hi>Nations</hi> have their <hi>several</hi> manners of doing it; Onely <hi>Nature</hi> tells us, that the most <hi>reverend</hi> manner of treating is best becoming <hi>God,</hi> and that it cannot be decent, to treat God in that manner as we would not do any <hi>superior</hi> beside, and <hi>Gods</hi> own expostulation about the <hi>offering polluted bread upon his altar,</hi> and of <hi>sacrificing the lame &amp; the sick,</hi> Mal. 1.8. is a <hi>confirmation</hi> of that, <hi>Offer it now,</hi> saith <hi>God, unto thy governour, will he be pleased with thee?</hi>
+                  </p>
+                  <p n="21">21. Apply this to a <hi>particular</hi> case, to a <hi>Nation,</hi> where 'tis <hi>cu<g ref="char:EOLhyphen"/>stomary</hi> to address to <hi>Kings, kneeling,</hi> and there the <hi>Analogie</hi> will hold <hi>exactly,</hi> (but not where that is not <hi>custome.</hi>) Among such I may say, Did ever any man that had his <hi>limbs</hi> and <hi>health,</hi> offer a <hi>petition</hi> to his <hi>Prince</hi> in the <hi>gesture</hi> of <hi>sitting,</hi> or <hi>lying</hi> along upon a <hi>table?</hi> and if he did not, then I must, I suppose, regularly conclude from <hi>custome,</hi> the one <hi>rule</hi> of <hi>decency</hi> in such matters, that according to <hi>Gods</hi> arguing it cannot be <hi>decently</hi> done in <hi>his</hi> service, which is the tendring our <hi>petitions</hi> or <hi>requests</hi> to that infinite <hi>Majesty.</hi> And so proportionably in other things.</p>
+                  <p n="22">22. This I did not there apply to the <hi>Cross in Baptisme,</hi> and the <hi>Ministers using of the Surplice,</hi> as being not pertinent to that place. <hi>Another head</hi> was set apart for those, and proceeded to §. 28. the <hi>Cross</hi> expresly named, and the <hi>Surplice</hi> implied under the title of <hi>other ceremonies,</hi> of which it may there be seen, what my <hi>conclusion</hi> was, not what is here deem'd <hi>incum<g ref="char:EOLhyphen"/>bent</hi> on me to <hi>prove,</hi> that the <hi>omission of them infers indecency,</hi>
+                     <pb n="11" facs="tcp:199438:12"/>but that standing on those grounds, whereon they are known stand, <hi>Conscience duly instructed cannot think it necessary or ten<g ref="char:EOLhyphen"/>ding to edification to cast them causlesly out of this Church, or the whole Liturgie for their sakes.</hi>]</p>
+                  <p n="23">23. And yet if Mr <hi>J.</hi> shall now desire to know what the grounds of those two <hi>Ecclesiastical rites</hi> are, which alone he is pleased to name, on perswasion, I suppose, that they were as fit, if not fitter then any others, for the <hi>disproving</hi> my position, of <hi>[cu<g ref="char:EOLhyphen"/>stom being the onely rule of decency]</hi> I shal now render him a <hi>brief</hi> account of them, such as may in some degree <hi>confirm</hi> the truth of it.</p>
+                  <p n="24">24. And <hi>first</hi> for the <hi>Crosse</hi> in <hi>Baptisme.</hi> 1. 'Tis known to all that our <hi>Christian</hi> course is a <hi>spiritual warfare</hi> under <hi>Christ</hi> our <hi>Great General;</hi> Now it is, and alwayes hath been <hi>customary</hi> over the world, that in a <hi>Militia</hi> there should be some <hi>banner,</hi> or <hi>Insigne,</hi> to which every one should <hi>resort</hi> and fight under it. This hath <hi>custome</hi> made <hi>decent</hi> among all, and supposing that <hi>custome,</hi> the <hi>omission</hi> of it in an <hi>army</hi> is <hi>indecent,</hi> yet not so, as things <hi>dishonest,</hi> or breaches of the <hi>Law of Nature,</hi> are <hi>in<g ref="char:EOLhyphen"/>decent.</hi>
+                  </p>
+                  <p n="25">25. And the <hi>Crosse</hi> on which <hi>Christ</hi> was <hi>crucified,</hi> the <hi>Embleme</hi> also of that <hi>state</hi> that every <hi>Christian</hi> enters into, a <hi>constant</hi> couragious <hi>patience</hi> for all afflictions was by the <hi>primitive Chri<g ref="char:EOLhyphen"/>stians</hi> thus used, as their
+<note n="(a)" place="margin">
+                        <hi>Signa crucis a<g ref="char:EOLhyphen"/>ctio Chri<g ref="char:EOLhyphen"/>stiana de<g ref="char:EOLhyphen"/>scribitur.</hi> Aug. de Doctr. Chr. l. 4.</note>
+                     <hi>symbol</hi> or <hi>Insigne,</hi> and every man that is <hi>inrolled</hi> in the <hi>Christian Militia,</hi> is by him that <hi>inrols</hi> him, signed with it; and this practice being thus <hi>founded,</hi> and recei<g ref="char:EOLhyphen"/>ved in the <hi>Church,</hi> Saint <hi>Augustines</hi> words are worth <hi>remem<g ref="char:EOLhyphen"/>bring,</hi> and cannot be denied to have <hi>truth</hi> in them,
+<note n="(b)" place="margin">
+                        <hi>In Joh.</hi> Tr. 118.</note>
+                     <hi>Signum crucis nisi adhibeatur, sive frontibus credentium, sive ipsi aquae quâ regeneramur &amp;c. nihil ritè perficitur, unless the sign of the cross be used either to the foreheads of the believers</hi> (who are <hi>Baptized) or to the water it self by which we are regenerate, it is not duly performed,</hi> i.e. with such <hi>ceremonies,</hi> as by <hi>custome</hi> of the <hi>Church</hi> the <hi>Rule</hi> of <hi>decency,</hi> belong to it; and, <hi>Crucis signo in fronte hodie tanquam in poste signanduses, omnesque Christiani signantur (de Catechiz. rud. c.</hi> 20. <hi>tom.</hi> 4. <hi>pag.</hi> 915.) <hi>thou must be signed now in the forehead with the sign of the Cross, as the Isra<g ref="char:EOLhyphen"/>elites on their door-posts, and so must all Christians.</hi> In the <hi>fore<g ref="char:EOLhyphen"/>head</hi>
+                     <pb n="4" facs="tcp:199438:13"/>particularly
+<note n="(c)" place="margin">
+                        <hi>Tom.</hi> 10 <hi>p.</hi> 289. <hi>B.</hi>
+                     </note>
+                     <hi>in fronte figat ubi sedes pudoris) because the seat of shame is there,</hi> which we render <hi>in token that the bapti<g ref="char:EOLhyphen"/>zed shall rot be ashamed</hi>—.</p>
+                  <p n="26">26. <hi>Secondly,</hi> the usage of this ceremony of <hi>signing</hi> with the <hi>Cross,</hi> was we also know, frequent in the <hi>Church</hi> (while the <hi>gifts</hi> of <hi>healing</hi> continued) in
+<note n="(d)" place="margin">See <hi>Aug. de Civ. D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i l.</hi> 22. c. 8.</note>
+                     <hi>curing diseases,</hi> and <hi>casting</hi> out <hi>Devils,</hi> so that <hi>Athanasius</hi> fre<g ref="char:EOLhyphen"/>quently affirmes of it,
+<note n="(e)" place="margin">
+                        <hi>De Incarnat. Tom.</hi> 1. <hi>pag.</hi> 84. So <hi>pag.</hi> 101. <hi>D.</hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. And pag. 102.6. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. And <hi>contr. Arian. Or.</hi> 1. <hi>pag.</hi> 285. A. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. And <hi>Praesente signo crucis obmutescit Paganitas.</hi> Aug. T. 4.229. B. And 832 B. <hi>Daemonia nominatâ cruce Christi ter<g ref="char:EOLhyphen"/>rentur, si impensius fiat, fugantur. Dii Paganorum metu crucis responsa dare non possunt.</hi>
+                     </note>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>by the sign of the cross all magick and witchcraft is brought to nought, all the Idol Temples laid waste and empty.</hi>
+                  </p>
+                  <p n="27">27. And then <hi>Baptisme</hi> being the <hi>exorcising</hi> of Devils (the <hi>an<g ref="char:EOLhyphen"/>cient Catechists</hi> we know were called <hi>exorcists</hi>) the rescuing a person from the <hi>power</hi> of <hi>Satan</hi> into <hi>Gods sonship</hi> and <hi>family,</hi> what can be more proper, or agreeable, or exactly <hi>symbolical,</hi> then the use of this in <hi>Baptisme,</hi> according to that of <hi>Ter<g ref="char:EOLhyphen"/>tullian, de Resurr. Carn. Caro sig<g ref="char:EOLhyphen"/>natur ut anima mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iatur, the flesh or body is signed, that the soul may be defended or fortified.</hi>
+                  </p>
+                  <p n="28">28. And if instead of the
+<note n="(f)" place="margin">
+                        <hi>Ad omnem progressum frontem crucis sig<g ref="char:EOLhyphen"/>naculo terimus.</hi> Tertul. de Cor. Mil. c. 3.</note>
+                     <hi>frequent</hi> use of it among the <hi>anci<g ref="char:EOLhyphen"/>ents,</hi> even
+<note n="(g)" place="margin">
+                        <hi>Vide Narrat. Hippolyti Apostolorum</hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>apud Pallad. Hist. Laus. pag.</hi> 1049. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>
+                     <hi>before</hi> the cumber<g ref="char:EOLhyphen"/>some weight of <hi>ce emonies</hi> came in (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, saith the <hi>Author</hi> of the <hi>Quest.</hi> and <hi>Resp.</hi> ascribed to <hi>Justin Martyr, Qu. gin pag.</hi> 364. <hi>in time of prayer we sign those that have any need of it, those that are any way ill affected</hi>) we in this our <hi>Church</hi> retein it onely in our <hi>solemne
+<pb n="13" facs="tcp:199438:13"/>entrance</hi> into <hi>Christs camp,</hi> in token that we mean <hi>valiantly</hi> to fight under his <hi>banners,</hi> and in <hi>confidence</hi> that he that thus sign<g ref="char:EOLhyphen"/>ed to <hi>Constantine</hi> victory from <hi>heaven</hi> (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>in this overcome</hi>) will thus give <hi>grace,</hi> and <hi>seal</hi> to us <hi>victory</hi> over our <hi>ghostly</hi> enemies. What question can there ever be of the <hi>perfect decency</hi> of this usage among us?</p>
+                  <p n="29">29. And then for the <hi>Surplice:</hi> It is no <hi>news</hi> I hope for <hi>se<g ref="char:EOLhyphen"/>veral</hi> sorts of men to have <hi>solemn garments</hi> for <hi>solemn</hi> actions, which they do not use at <hi>other</hi> times. The <hi>Judges</hi> upon the <hi>Bench,</hi> or the <hi>Lords</hi> at their coming to <hi>Parliament,</hi> are a suffici<g ref="char:EOLhyphen"/>ent <hi>evidence</hi> of this, who weare not those <hi>robes</hi> in <hi>common</hi> occasi<g ref="char:EOLhyphen"/>ons which there they do, as betokening their <hi>quality</hi> and the <hi>im<g ref="char:EOLhyphen"/>ployments</hi> they are about. And then what is thus <hi>customarie</hi> in <hi>civil</hi> matters (viz: to <hi>difference persons</hi> and <hi>imployments,</hi> yea and <hi>dayes</hi> by distinction of <hi>garments</hi>) and is allowed to be <hi>de<g ref="char:EOLhyphen"/>cent</hi> therein, this by <hi>analogie</hi> undeniable, is as fitly and <hi>decently</hi> from thence derived to <hi>solemne sacred</hi> actions also, such are the <hi>publick offices</hi> of the <hi>Priest;</hi> and the <hi>commands</hi> of our <hi>Superi<g ref="char:EOLhyphen"/>ors</hi> being added to this <hi>decency</hi> of the matter, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, it is, I am sure, more than <hi>undecent</hi> for <hi>inferiors</hi> to be <hi>obstinate,</hi> and deny <hi>obedience</hi> to them. In the choice of the <hi>garment</hi> there hath been also, as neare as may be, a <hi>resemblance</hi> observed of those <hi>garments,</hi> which in <hi>Scripture</hi> are mentioned for the like <hi>solemnities, long, shining,</hi> i.e. <hi>white robes,</hi> or <hi>garments;</hi> And if the <hi>constant</hi> usage of <hi>other Churches</hi> beside this of ours, <hi>Eastern</hi> as well as <hi>Western,</hi> for so many <hi>centuries</hi> together, be conside<g ref="char:EOLhyphen"/>red, it will be competently able to establish an <hi>Ecclesiastical cust me</hi> also, which, in things of this nature, were <hi>external or<g ref="char:EOLhyphen"/>naments,</hi> and <hi>formalities,</hi> is a more <hi>rational</hi> ground, and <hi>rule</hi> or measure of <hi>decency,</hi> then any Mr <hi>J.</hi> (or <hi>Amesius</hi> to boote) will readily be able to produce for the <hi>rejecting</hi> of them, or <hi>breaking,</hi> and <hi>casting away</hi> those <hi>hands,</hi> which tyed no <hi>harder</hi> a yoke than this upon their <hi>shoulders.</hi>
+                  </p>
+                  <p n="30">30. In this case I believe (though not in the <hi>garments</hi> them<g ref="char:EOLhyphen"/>selves) there is place for that <hi>decency,</hi> the <hi>omission of which ne<g ref="char:EOLhyphen"/>cessarily inferres indecency,</hi> and for such <hi>order</hi> the <hi>breaking</hi> of which must soon end in <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> (which <hi>Mr I.</hi> saith, <hi>St. Paul</hi> opposes to <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) <hi>viz:</hi> down right <hi>confusion.</hi>
+                  </p>
+                  <p n="31">
+                     <pb n="14" facs="tcp:199438:14"/>31. Having sa'd thus much <hi>ex abundanti,</hi> above what was <hi>incum<g ref="char:EOLhyphen"/>bert</hi> on me, I shall flatter my self, that I may now spare any <hi>larger</hi> paines, in furvey of <hi>Amesius</hi>'s <hi>arguments,</hi> which Mr <hi>J.</hi> is resolved to think <hi>considerable,</hi> and to speake very <hi>magnificently</hi> of them, as <hi>proving</hi> that the <hi>text</hi> is 1 <hi>Cor.</hi> xiv. 40. <hi>rightly understood doth not onely not authorize any humane institution of ceremonies, but on the contrary plainly condemnes them, and this,</hi> saith he, <hi>was so well managed by him, that he hath quite beaten out of the field Bishop Morton and his second,</hi> Dr <hi>J. Burges:</hi>
+                  </p>
+                  <p n="32">32. Here is <hi>triumph</hi> indeed. And I suppose the <hi>Reader</hi> already discernes, what are the <hi>grounds</hi> of it, <hi>viz.</hi> that <hi>Amesius</hi> ac<g ref="char:EOLhyphen"/>knowledges nothing <hi>decent,</hi> but that, the <hi>omission of which neces<g ref="char:EOLhyphen"/>sarily inferres indecency,</hi> i.e. as hath been shewed, nothing but <hi>natural decency,</hi> the <hi>omission</hi> of which is a <hi>vice contrary to that,</hi> by consequence, that there is no such thing, as an <hi>indifferent gesture</hi> or <hi>garment,</hi> which either <hi>civil,</hi> or <hi>Ecclesiastical cu<g ref="char:EOLhyphen"/>stome,</hi> or <hi>obedience</hi> to our <hi>lawfull superiors</hi> may render <hi>decent;</hi> that whatsoever some <hi>eternal Law</hi> of <hi>Nature</hi> commands not, the doing of that, if it be but wearing such a <hi>garment,</hi> which the <hi>Canons</hi> of any <hi>Church</hi> prescribe, nay, by <hi>parity</hi> of reason, a <hi>cloake</hi> or a <hi>buttond doublet,</hi> is absolutely <hi>unlawfull</hi> by force of 1 <hi>Cor.</hi> xiv. 40.</p>
+                  <p n="33">33. This being the <hi>bottome</hi> of those <hi>arguments</hi> of <hi>Amesius,</hi> I may safely tell Mr <hi>J.</hi> that they could no otherwise beat either <hi>Bi<g ref="char:EOLhyphen"/>shop Morton,</hi> or Dr <hi>J. Burgesse out of the field,</hi> than that they thought them utterly <hi>unworthy</hi> their making <hi>replies</hi> to; He that thinkes there is nothing <hi>indifferent,</hi> nothing <hi>lawfull,</hi> the <hi>omission</hi> of which is not <hi>sin,</hi> doth certainly use other <hi>dictonaries</hi> than we do; discernes no <hi>difference</hi> betwixt <hi>lawfull,</hi> and <hi>neces<g ref="char:EOLhyphen"/>sary,</hi> and as the <hi>Assertors</hi> of <hi>Fatall production</hi> of all things will not allow a <hi>cause</hi> to be <hi>sufficient</hi> to produce any effect which it doth not <hi>produce,</hi> and so <hi>produce,</hi> that it <hi>cannot</hi> not <hi>produce</hi> it, which is to tell me that I <hi>sit,</hi> and <hi>walke</hi> at the very time, when I <hi>stand</hi> still, it being certain, that I am <hi>equally able</hi> to do both those, when yet I <hi>really</hi> do the <hi>third</hi> onely, so he will not al<g ref="char:EOLhyphen"/>low any thing <hi>morally possible,</hi> which is not <hi>morally necessary,</hi> which is certainly the giving <hi>new lawes</hi> to words (making the word [<hi>lawfull</hi> or <hi>possible</hi>] which was wont to be <hi>interpreted</hi>
+                     <pb n="15" facs="tcp:199438:14"/>that which <hi>may</hi> or <hi>may not</hi> be done, to signifie onely that which <hi>must</hi> be done, and may not be <hi>emitted</hi>) and not <hi>new</hi> rea<g ref="char:EOLhyphen"/>sons to confirme <hi>old paradexes.</hi>
+                  </p>
+                  <p n="34">34. This <hi>argument</hi> of <hi>Amesius</hi> against things <hi>indifferent,</hi> that <hi>learned Bishop</hi> was well acquainted with, by his familiar confe<g ref="char:EOLhyphen"/>rences with Mr. <hi>Lapthorne</hi> a vehement <hi>disputer</hi> against <hi>ceremo<g ref="char:EOLhyphen"/>nies,</hi> and whom the <hi>Bishop</hi> thought fitter to refute by <hi>trifling</hi> in<g ref="char:EOLhyphen"/>stances, of <hi>unbuttoning,</hi> and <hi>buttoning</hi> his <hi>casseck;</hi> than by more <hi>serious</hi> attempts of <hi>conviction,</hi> i.e. in plain termes to <hi>de<g ref="char:EOLhyphen"/>spise</hi> and <hi>smile</hi> at, than to <hi>dread;</hi> and if Mr <hi>J.</hi> have really read Mr <hi>Hooker,</hi> whom he somewhere intitles our <hi>Patrone of ceremonies,</hi> he may in him remember a discourse of <hi>lawes,</hi> which will supersede all <hi>necessity,</hi> or benefit of my <hi>farther</hi> inlarg<g ref="char:EOLhyphen"/>ing on it.</p>
+                  <p n="35">35. Meane while, to the <hi>reproch</hi> of my great <hi>stupidity,</hi> I willingly acknowledge, that it cannot enter into my <hi>understanding,</hi> what sense that <hi>text</hi> is capable of, which with the best (possible) <hi>mana<g ref="char:EOLhyphen"/>gery</hi> can be taught <hi>plainly to condemne all institution of ceremonies in the Church,</hi> i.e. by what <hi>prosyllogismes, or supplies</hi> or <hi>advantages</hi> of art this <hi>Enthymeme</hi> shall be rendred <hi>concludent. The Ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>stle commands that all things be done decently and in order. Ergo, He condemnes all institution of Ceremonies for Gods worship.</hi> He that can maintain this <hi>consequence</hi> not onely to be <hi>true,</hi> but (as Mr <hi>J.</hi> affirmes of him) <hi>plain</hi> and <hi>evident,</hi> will be a <hi>formidable adver<g ref="char:EOLhyphen"/>sarie</hi> indeed, much better deserving that <hi>title,</hi> than one whom he knowes not, and therefore honours with it.</p>
+                  <p n="36">36. His <hi>third</hi> and <hi>last</hi> impression now remaines, wherein he un<g ref="char:EOLhyphen"/>dertakes to prove by 3. <hi>arguments</hi> that <hi>custome is not the onely rule of decency;</hi> and his <hi>first argument</hi> is, <hi>because the light and law of nature is also a rule of decency.</hi> To this I <hi>answer,</hi> that in those things, whereof <hi>alone</hi> he knowes I there speak, in the §. concerning <hi>Ʋniformity,</hi> i.e. in things <hi>indifferent, gestures</hi> and o<g ref="char:EOLhyphen"/>ther <hi>ceremonies</hi> in <hi>Gods</hi> service, the <hi>Law of Nature</hi> is no <hi>rule</hi> at all, and, I suppose, he cannot think; I am sure, he pretends not to <hi>prove,</hi> or so much as <hi>affirme,</hi> it is, and therefore though not <hi>simply</hi> in <hi>all</hi> sorts of things, of which I spake not, nor can by any <hi>rules</hi> of <hi>discourse</hi> be supposed to have spoken, yet as to the matters then before me, wherein <hi>Ecclesiastick Conformity</hi>
+                     <pb n="8" facs="tcp:199438:15"/>consisted, <hi>custome</hi> and onely <hi>custome</hi> was the <hi>rule</hi> of <hi>Decency.</hi>
+                  </p>
+                  <p n="37">37. His <hi>second argument</hi> is wholly deceitfull, and must be disco<g ref="char:EOLhyphen"/>vered to be so by reducing it to <hi>rules</hi> of <hi>art.</hi> 'Tis by him variou<g ref="char:EOLhyphen"/>sly formed into <hi>two</hi> several <hi>Syllogismes.</hi> The <hi>first</hi> is this.</p>
+                  <p>
+                     <list>
+                        <item>
+                           <hi>Nothing can be undecent, which is agreeable to the onely rule of Decency.</hi>
+                        </item>
+                        <item>
+                           <hi>But divers things are undecent, which yet can plead cu<g ref="char:EOLhyphen"/>stome.</hi>
+                        </item>
+                        <item>
+                           <hi>The conclusion now must be, Therefore custome is not the onely rule of decency.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p n="38">38. But this is no <hi>regular Syllogisme,</hi> 'tis in no <hi>mood</hi> or <hi>figure,</hi> nor readily <hi>reducible</hi> to any, and therefore twas his onely way to <hi>presume</hi> it <hi>evident,</hi> and never to <hi>endeavour</hi> any <hi>proof</hi> there<g ref="char:EOLhyphen"/>of.</p>
+                  <p n="39">39. But he hath thought fit to <hi>vary</hi> this <hi>syllogisme,</hi> and give it in <hi>other</hi> termes, and then one might hope it would be <hi>exactly</hi> form'd. 'Tis thus,
+<list>
+                        <item>
+                           <hi>It is impossible that the onely rule of decency should be undecent.</hi>
+                        </item>
+                        <item>
+                           <hi>But yet it is very possible that many customes should be inde<g ref="char:EOLhyphen"/>cent.</hi>
+                        </item>
+                        <item>
+                           <hi>Therefore he shall conclude that custome is not the onely rule of decency.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p n="40">40. But this is no <hi>syllogisme</hi> neither, being far removed from the <hi>measure</hi> that <hi>Logicians</hi> exact, and such as by which I will prove any thing <hi>true,</hi> that is the most distant from it. For <hi>example,</hi> it is a granted truth, that <hi>Law</hi> is the <hi>onely rule of Justice,</hi> yet this I shall disprove by a <hi>syllogisme</hi> exactly formed by Mr <hi>J.</hi> his <hi>model,</hi> Thus,
+<list>
+                        <item>
+                           <hi>It is impossible that the onely rule of justice should be unjust.</hi>
+                        </item>
+                        <item>
+                           <hi>But yet it is very possible that many Laws should be unjust.</hi>
+                        </item>
+                        <item>
+                           <hi>Therefore I shall conclude that Law is not the onely rule of justice:</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p n="41">41. To discover this <hi>deceit</hi> then, the <hi>syllogisme</hi> which is now no <hi>syllogisme</hi> must be somewhat better form'd, according to the rules of <hi>Logick,</hi> and reduced, as near as it can, into a <hi>true syllogisme.</hi> Thus,
+<list>
+                        <item>
+                           <hi>Whatsoever is it self undecent, cannot be the onely rule of de<g ref="char:EOLhyphen"/>cency.</hi>
+                        </item>
+                        <item>
+                           <hi>But custome is it self undecent.</hi>
+                        </item>
+                        <item>
+                           <hi>Therefore custome cannot be the onely rule of decency.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <pb n="17" facs="tcp:199438:15"/>
+                  <p>Here before it can be defin'd whether this be a <hi>regular syllogism,</hi> or no, it must be demanded, <hi>quanta est minor,</hi> is the <hi>assumption Ʋ<g ref="char:EOLhyphen"/>niversal</hi> or <hi>particular?</hi> If it be <hi>particular,</hi> then either the conclu<g ref="char:EOLhyphen"/>sion must be particular also, or else tis a <hi>false syllogism.</hi> And if the <hi>conclusion</hi> be <hi>particular,</hi> then it infers no more then that <hi>some un<g ref="char:EOLhyphen"/>decent custome cannot be the only rule of decency,</hi> which is willingly granted by me, who do not at all affirm it of <hi>undecent customes;</hi> But if the <hi>minor</hi> be <hi>Ʋniversal,</hi> then 'tis a <hi>false proposition,</hi> for cer<g ref="char:EOLhyphen"/>tainly <hi>all customes</hi> are not <hi>indecent.</hi> The short is, <hi>Nature</hi> may be the <hi>rule</hi> of one sort of <hi>decency,</hi> &amp; <hi>custom</hi> the only <hi>rule</hi> of <hi>another;</hi> yet if the <hi>custom</hi> be in it self <hi>indecent,</hi> then of such <hi>indecent custom</hi> it is not pretended, that it is either <hi>onely,</hi> or <hi>at all</hi> the <hi>rule of decency.</hi> And so still my <hi>proposition</hi> may stand good, which as it belonged not to <hi>natural decency,</hi> so much less to what is by <hi>Nature,</hi> or in it self <hi>undecent,</hi> never imagining it reasonable, that what <hi>gestures</hi> were against those <hi>Laws</hi> of <hi>Nature,</hi> or <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> or any other <hi>Law</hi> of <hi>decency,</hi> or rather of <hi>natural comli<g ref="char:EOLhyphen"/>ness</hi> and <hi>honesty,</hi> should by pretence of any <hi>custome</hi> whatever, be introduced into <hi>Gods worship;</hi> 'Tis sufficient that <hi>some cu<g ref="char:EOLhyphen"/>stomes</hi> may be <hi>decent,</hi> or in themselves not <hi>indecent,</hi> and that all <hi>decency</hi> in the <hi>service</hi> of <hi>God,</hi> is to be <hi>regulated</hi> and judged of by <hi>conformity</hi> with them: For I said not that <hi>all customes</hi> were the <hi>rule</hi> of <hi>decency,</hi> but that <hi>some were,</hi> and that there was no <hi>other</hi> rule, but <hi>custome.</hi> This, I hope, hath discovered the <hi>in<g ref="char:EOLhyphen"/>validity</hi> of his second <hi>argument.</hi>
+                  </p>
+                  <p n="42">42. His <hi>last argument [because there is decency in the first usage of some things]</hi> falls upon that <hi>mistake</hi> of my words, which I dis<g ref="char:EOLhyphen"/>coursed of, and <hi>cleared</hi> at the <hi>beginning,</hi> for I never said, that a thing must be <hi>customary,</hi> before it is <hi>decent</hi> in any kind; (know<g ref="char:EOLhyphen"/>ing unquestionably that there is a <hi>natural decency</hi>) but that the <hi>decency</hi> of any <hi>ceremony</hi> in <hi>Gods service,</hi> wherein <hi>God</hi> and <hi>Na<g ref="char:EOLhyphen"/>ture</hi> have <hi>prescribed nothing</hi> particularly, must be regulated ac<g ref="char:EOLhyphen"/>cording to those <hi>measures,</hi> which the <hi>customes</hi> of any place do allow to be <hi>reverential</hi> among them; Or, in yet plainer words, the <hi>civil customes</hi> of any <hi>Nation,</hi> by which this or that sort of <hi>gesture</hi> is rendred a token of <hi>reverence,</hi> are the <hi>onely rule,</hi> by which the <hi>decency</hi> of <hi>indifferent gestures,</hi> &amp;c. is to be judged of, in order to <hi>God's service.</hi> And so much for the <hi>last argument</hi>
+                     <pb n="18" facs="tcp:199438:16"/>also, and consequently for the <hi>first</hi> part of his <hi>exception,</hi> that against my <hi>interpretation</hi> of <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>decently.</hi>
+                  </p>
+                  <p n="43">43. But there is yet a <hi>second charge</hi> behind against my rendring of <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>according to appointment</hi>] which he hath managed in these words.</p>
+                  <p n="44">44. <hi>As for the other part of the words, let all things be done in or<g ref="char:EOLhyphen"/>der,</hi> Ames <hi>in the place forementioned sheweth that order requi<g ref="char:EOLhyphen"/>reth not such ceremonies as ours, and he giveth this reason, because order requireth not the institution of any new thing but onely the right placing and disposing of things which are formerly institu<g ref="char:EOLhyphen"/>ted: and this he makes good from the notation of the word, from the definitions of order, which are given by Philosophers and Di<g ref="char:EOLhyphen"/>vines</hi> &amp;c. <hi>from the context of the chapter, and from the usage of the word elsewhere. But the Doctor, that the words may give some countenance unto our ceremonies, adve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tureth upon a new in<g ref="char:EOLhyphen"/>terpretation of them.</hi>
+                  </p>
+                  <p>
+                     <hi>The words</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>(saith he,) literally import according unto appointment,</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>sometimes signifies to appoint,</hi> as <hi>Mat.</hi> 28.16. <hi>Act.</hi> 22.10. <hi>and</hi> 28.23. <hi>And we may hereupon argue à conjuga<g ref="char:EOLhyphen"/>tis, that</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>may be sometimes rendred appointment. But because it may sometimes be rendred appointment, will it therefore follow that it must be so rendred in this place?</hi>
+                  </p>
+                  <p>We may say <hi>as well as the</hi> Dr. <hi>that the words</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>literally import according unto order, as order is taken strictly for the right placing or ranking of things one before, another after, and this we have confessed even by</hi> Dr John Burgesse <hi>in his rejoynder unto</hi> Ames p. 78. <hi>a book published by the special command of the late King. Mortover this sense is favoured by the coherence, for.</hi> v. 31. <hi>we have a particular instance of order in this acception of the word, ye may all prophesie one by one</hi> &amp;c. <hi>and not all or many speake at once</hi> 2. <hi>We have the oppositeof order taken in this sense.</hi> 1. v. 33. <hi>confu<g ref="char:EOLhyphen"/>sion. Let all things be done in order, then is as much as, let all things be done without confusion. And I hope confusion may be avoided in the worship of God without such ceremonies as ours.</hi>
+                  </p>
+                  <p>
+                     <hi>But we will for once suppose, though not grant, that the clear importance of the words, is, that all be done in the Church accor<g ref="char:EOLhyphen"/>ding to custome and appointment. Yet the</hi> Dr <hi>hath a hard taske to performs, before he can come nigh his conclusion, that the words
+<pb n="19" facs="tcp:199438:16"/>of</hi> Paul <hi>are a proofe of the more than lawfulnesse of prescription of such ceremonies as ours in a Church: For he must prove that cu<g ref="char:EOLhyphen"/>stome and order here are taken in such a latitude, as that they include not onely the customes and appointments of the Apostolical Churches, but also of all the Churches of God in succeeding ages: and the performance of this he will find not to be so easie, as he may imagine.</hi>
+                  </p>
+                  <p>
+                     <hi>I am sensible that I have by this discourse provoked a very learn<g ref="char:EOLhyphen"/>ed and for midable adversary, but it is onely love of the truth hath ingaged me in so unequal an incounter, and therefore I hope the</hi> Dr <hi>will pardon and excuse my boldnesse. If he can by dint of argument prove the truth to be on his side, I shall not be sorry or ashamed to be overcome by him.</hi>
+                  </p>
+                  <p n="45">45. To this my <hi>answer</hi> will be very <hi>briefe,</hi> 1. by giving the <hi>reason</hi> of my <hi>rendring,</hi> 2. by evidencing, that if the <hi>vulgar</hi> were ac<g ref="char:EOLhyphen"/>knowledged the righter rendring, yet my <hi>conclusion</hi> would very regularly follow thence, and that therefore I have no need to <hi>contend</hi> with any gainsayer, about my <hi>rendring.</hi>
+                  </p>
+                  <p n="46">46. For the <hi>first,</hi> it is manifest to any that knowes but the <hi>ele<g ref="char:EOLhyphen"/>ments</hi> of <hi>Greeke,</hi> that <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>literally</hi> and <hi>properly</hi> signifies <hi>[ac<g ref="char:EOLhyphen"/>cording to ordination or appointment]</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> signifies [<hi>according</hi> to] not <hi>[in]</hi> and <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> or <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>[an ordinance or constitution]</hi> millions of times in authors, and <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>orderly,</hi> or <hi>in order</hi>] lying more consonant with <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, no reason can be rendred, why if that had been the <hi>designed</hi> meaning, that word should not have been used there.</p>
+                  <p n="47">47. That it may so signifie Mr <hi>J.</hi> acknowledges, and so I have obtained all I seek in my <hi>first</hi> proposal, which was not, that it <hi>must</hi> necessarily thus signifie, but that this being the <hi>literal</hi> re<g ref="char:EOLhyphen"/>gular rendring of it, I had sufficient <hi>reason</hi> to render it thus.</p>
+                  <p n="48">48. I proceed then to the <hi>second</hi> thing, that if what he pretends to be <hi>possible</hi> also, were indeed the <hi>onely possible,</hi> or (by way of <hi>supposition,</hi> but not <hi>concession</hi>) if <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>] did really import no more than <hi>[in order]</hi> as that is opposed to <hi>disorder</hi> or <hi>confusion,</hi> yet I say, it will soon appear, that the <hi>Apostles</hi> commanding such <hi>order</hi> or <hi>orderlynesse,</hi> and <hi>forbidding</hi> all <hi>confusion</hi> in <hi>ecclesi<g ref="char:EOLhyphen"/>astical</hi> affaires, must by consequence be interpreted to <hi>command</hi> the <hi>instituting</hi> and <hi>observing uniformity</hi> of <hi>ceremonies</hi> in a <hi>Church.</hi> This I thus deduce.</p>
+                  <p n="49">
+                     <pb n="20" facs="tcp:199438:17"/>49. <hi>First</hi> there is no possibility of <hi>worshipping God externally</hi> and <hi>publickly,</hi> without use of some <hi>ceremonies</hi> or <hi>circumstances</hi> of <hi>time, place,</hi> and <hi>gesture,</hi> &amp;c. Secondly there is no possibility of <hi>order</hi> in a <hi>multitude,</hi> without <hi>uniformity</hi> in the same <hi>circumstances,</hi> Thirdly, there <hi>is</hi> as little <hi>possibility</hi> of <hi>Ʋniformity</hi> among many, without either <hi>agreement</hi> one with another, or <hi>direction</hi> of some <hi>superior</hi> to them all, what shall by all be <hi>uniformely</hi> performed. Fourthly the <hi>agreement</hi> one with another, if it be onely <hi>volun<g ref="char:EOLhyphen"/>tarie,</hi> and such, as by which none are <hi>obliged,</hi> no way <hi>secures</hi> the <hi>end;</hi> but if it be such an <hi>agreement,</hi> that every single person is <hi>ob<g ref="char:EOLhyphen"/>liged</hi> to observe, then still is that a <hi>law</hi> of that <hi>body,</hi> as of a <hi>Councel,</hi> &amp;c. and as truely so, as the <hi>constitution</hi> of a <hi>single Prae<g ref="char:EOLhyphen"/>late</hi> can be thought to be. And so the <hi>conclusion</hi> regularly fol<g ref="char:EOLhyphen"/>lowes, that to the <hi>preserving</hi> but of <hi>order,</hi> or <hi>orderlynesse</hi> in a <hi>Church,</hi> it is necessary, there be <hi>appointment,</hi> what shall by all be <hi>uniformely</hi> performed; <hi>confusion</hi> unavoidably coming in, where no certain rules are prescribed for <hi>Ʋniformity.</hi>
+                  </p>
+                  <p n="50">50. What can be <hi>denved</hi> in this processe, I foresee not, yet when ti's granted, one reserve Mr <hi>J.</hi> hath still left him. For saith he, <hi>if it were granted that</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>signifies appointment or ordination, yet still it will be incumbent on the</hi> Dr. <hi>to prove, that this extends not onely to the customes and appointments of the Apostolike Churches, but also to the Churches of succeeding ages.</hi> And my <hi>answer</hi> to this will <hi>conclude</hi> this whole debate.</p>
+                  <p n="51">51. <hi>First</hi> then I acknowledge, that, it is not here <hi>necessarily</hi> ordained by the <hi>Apostle,</hi> that <hi>all</hi> the <hi>Churches</hi> of <hi>God</hi> in <hi>suc<g ref="char:EOLhyphen"/>ceeding</hi> ages should <hi>institute</hi> ceremonies in <hi>worship,</hi> for, provi<g ref="char:EOLhyphen"/>ded those <hi>ceremonies</hi> were once <hi>instituted,</hi> all that this <hi>text</hi> in<g ref="char:EOLhyphen"/>forces, is <hi>uniforme obedience</hi> to them.</p>
+                  <p n="52">52. But then secondly, when for many <hi>circumstances</hi> of <hi>Gods wor<g ref="char:EOLhyphen"/>ship,</hi> there is no <hi>order</hi> particularly taken by <hi>Christ</hi> and his <hi>A<g ref="char:EOLhyphen"/>postles,</hi> as in what <hi>gesture publick supplication</hi> shall be addrest, in what, <hi>lauds</hi> and <hi>hymnes,</hi> and <hi>confession</hi> of the <hi>faith,</hi> &amp;c. and yet the <hi>rule</hi> is given by them, that <hi>all</hi> shall be <hi>done according to appointment,</hi> and moreover in other places that <hi>obedience</hi> be paid to <hi>those superiors</hi> which <hi>watch over our souls;</hi> and when those <hi>rules</hi> are not given onely to the <hi>persons</hi> that then lived in the <hi>Church</hi> of <hi>Corinth,</hi> &amp;c. but to all that should ever <hi>live</hi>
+                     <pb n="21" facs="tcp:199438:17"/>in that, and <hi>all</hi> other <hi>Churches,</hi> it cannot then be deemed, either that there were no <hi>superiors</hi> designed to <hi>succeed Christ,</hi> and his <hi>Apostles</hi> in the ordering of his <hi>Church,</hi> or that they should not <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>set in order the things that were wanting,</hi> such as the <hi>Apostles</hi> had left undisposed of, or that <hi>inferiors</hi> should not be bound to <hi>obey</hi> them <hi>uniformely</hi> when they thus gave <hi>orders</hi> to them.</p>
+                  <p n="53">53. When we are <hi>commanded</hi> to <hi>obey our parents, civil</hi> as well as <hi>natural,</hi> by a <hi>law</hi> given by <hi>God</hi> to <hi>Moses,</hi> or by <hi>Christ</hi> to his <hi>disciples,</hi> can it be strange, that we that lived not in either of <hi>those</hi> ages, should thereby be <hi>obliged,</hi> when <hi>God</hi> in his providence hath given us <hi>fathers</hi> of <hi>both</hi> kinds (as well as them) regularly <hi>presiding</hi> over us, and making use of that <hi>liberty</hi> that is presu<g ref="char:EOLhyphen"/>med in all <hi>parents, viz:</hi> to give <hi>commands,</hi> and expect <hi>obedience</hi> from their <hi>children?</hi> Certainly it cannot, and as little can it be doubted, either whether our <hi>ecclesiastical parents</hi> have power to <hi>institute</hi> in things <hi>omitted,</hi> and thereby <hi>remitted</hi> to their care by the <hi>Apostles,</hi> or whether we their <hi>obedient children,</hi> that are <hi>commanded</hi> to act <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>according to appointment,</hi> should from time to time be disobliged, and <hi>free</hi> to <hi>disobey</hi> them in whatso<g ref="char:EOLhyphen"/>ever they <hi>appoint</hi> us.</p>
+                  <p n="54">54. Tis <hi>granted</hi> him, if he please, that what <hi>Christ,</hi> and his <hi>A<g ref="char:EOLhyphen"/>postles</hi> have already <hi>prescribed,</hi> should not be <hi>repealed</hi> by those that thus <hi>succeed</hi> them; should they rashly assume that <hi>power,</hi> they would not in so doing act <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, whether <hi>regularly</hi> or <hi>according to appointment;</hi> but for the <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in which they have made no <hi>rules,</hi> but left <hi>order</hi> to <hi>Titus,</hi> &amp;c. (i.e. by <hi>parity</hi> of reason, to the <hi>Bishops</hi> in every <hi>Isl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd</hi>) to make them, here what <hi>power</hi> is <hi>left</hi> them, may certainly with perfect <hi>safety</hi> be <hi>exercised</hi> by them, and that <hi>necessarily inferres</hi> our <hi>obligation</hi> to yield <hi>obedience</hi> to their <hi>exercises</hi> of them.</p>
+                  <p n="55">55. This is all the observance Mr <hi>J.</hi> seemes to expect of me at this time, unlesse his <hi>intimation</hi> to <hi>all admirers of</hi> Mr. <hi>Hooker,</hi>
+                     <note place="margin">p. 14 <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</note> that they should <hi>vindicate their great Patrone of Cere<g ref="char:EOLhyphen"/>monies,</hi> may passe for an <hi>admonition</hi> to me, who acknowledge my self a thankfull <hi>adorer</hi> of <hi>Gods graces</hi> in that <hi>Godly learned</hi> man, and so exact a few lines more above the <hi>regular</hi> ac<g ref="char:EOLhyphen"/>count.</p>
+                  <p n="56">
+                     <pb n="22" facs="tcp:199438:18"/>56. This will detain me no longer than whilest I mind the <hi>Reader</hi> that in a discourse of the <hi>ben<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fits</hi> which we receive from <hi>Christ</hi> in the <hi>Sacrament,</hi>
+                     <note place="margin">
+                        <hi>Eccl. Pol. l.</hi> 5. <hi>Sect.</hi> 55.</note>
+                     <hi>and otherwise,</hi> Mr <hi>Hooker</hi> undertakes to set down how <hi>Christ</hi> in his <hi>human nature</hi> is <hi>communicated</hi> to us, and so <hi>present with us;</hi> To this end 3. things he shewes at large, 1. that as <hi>nothing created can be unlimited, or receive any such accident from any as may really make it infinite, so neither the soul nor body of Christ, nor Christ as man, nor according to his humane nature, can possibly be every where present, no nor the substance of the body of Christ, which neither hath nor can have any presence but onely local.</hi> 2. That <hi>this cannot be rendred possible either by the grace of union with Deity, nor by any other possible means, as he at large excellently deduceth it,</hi> pag. 300, 301, 302. 3. That <hi>it may peradventure be well enough granted in some sense, and after a sort, that Christ is every where present, as man,</hi> viz. 1. <hi>in respect of the conjunction of the humane nature with the Deity, which conjunction is extended as far as the Deity, the actual position being restrain'd and tied to a certain place, and</hi> 2. <hi>by cooperation with Deity, and that in all things.</hi>
+                  </p>
+                  <p n="57">57. Now on this <hi>third</hi> head,
+<note place="margin">p. 139.</note> (without reflecting on the <hi>two</hi> for<g ref="char:EOLhyphen"/>mer, which assure us of the <hi>authors</hi> meaning in it) <hi>two</hi> passa<g ref="char:EOLhyphen"/>ges Mr <hi>J.</hi> takes hold of,
+<note place="margin">p. 140.</note> if <hi>he know any thing in either philosophy or scholastical divinity, are both guilty of a gross mistake, and cannot be sufficiently wondred at by him, that they should fall from so learned a pen.</hi>
+                  </p>
+                  <p n="58">58. But I suppose there is no great skill in <hi>either</hi> of those <hi>learned</hi> faculties, required, to <hi>distinguish</hi> betwixt that which <hi>truly</hi> and <hi>properly</hi> is, and that which <hi>may in some sense, and after a sort,</hi> and <hi>in two respects onely</hi> (neither of which belong to the <hi>pro<g ref="char:EOLhyphen"/>priety</hi> of being) be <hi>well enough granted,</hi> and that with a <hi>[perad<g ref="char:EOLhyphen"/>venture]</hi> also, to have <hi>influence</hi> on all these.</p>
+                  <p n="59">59. And what <hi>severity</hi> is this, to require of every <hi>learned</hi> man, that hath most largely <hi>refuted</hi> an <hi>adversary,</hi> to be so <hi>averse</hi> from all thoughts of <hi>peace</hi> and <hi>reconcilation</hi> with him, that he may not allow him to speak <hi>truth,</hi> or but <hi>perhaps</hi> to speak truth <hi>in a sort,</hi> and in <hi>some sense,</hi> and in <hi>two onely respects?</hi> all which are still more than <hi>intimations,</hi> that he thinks him to be <hi>absolute<g ref="char:EOLhyphen"/>ly</hi>
+                     <pb n="23" facs="tcp:199438:18"/>(and in <hi>simplicity</hi> and <hi>propriety</hi> of speaking) in a <hi>gross errour,</hi> impossible even to the <hi>power</hi> of <hi>God</hi> to have truth in it.</p>
+                  <p n="60">60. If any should chance to say of an <hi>eloquent</hi> man, that you might <hi>hear an Angel speak in him,</hi> and I should reply, that it might <hi>peradventure be well enough granted in a sort, or in some sense,</hi> that when he spake you might <hi>hear an Angel,</hi> assuring you at large of my <hi>opinion,</hi> that no bare <hi>man</hi> can truly be an <hi>Angel,</hi> any that it was impossible for <hi>God</hi> himself to bring to pass, that at the <hi>same</hi> time he should be an <hi>Angel,</hi> and not an <hi>Angel,</hi> a <hi>man,</hi> and not a <hi>man,</hi> or which is all one, a <hi>bare</hi> man, and yet an <hi>Angel,</hi> or (in <hi>fewer</hi> words) when <hi>Christ</hi> saith he is a <hi>door,</hi> and a <hi>vine,</hi> if I should say, that <hi>in a sort</hi> and in <hi>some sense,</hi> and that in <hi>two respects,</hi> each of these had <hi>truth</hi> in them, would Mr <hi>J.</hi> think fit to leave his subject, and let loose for <hi>three</hi> leaves to<g ref="char:EOLhyphen"/>gether, and <hi>pawn</hi> all his <hi>Philosophy</hi> and <hi>scholastical</hi> (not consi<g ref="char:EOLhyphen"/>dering what the consequence also may be to his <hi>practical) divi<g ref="char:EOLhyphen"/>nity,</hi> to <hi>accuse</hi> and <hi>wonder</hi> at, and never to <hi>give over wonder<g ref="char:EOLhyphen"/>ing,</hi> and withall solemnly to <hi>refute</hi> this or that <hi>improper figu<g ref="char:EOLhyphen"/>rative</hi> speech, so perfectly acknowledged by the <hi>speakers to be</hi> such?</p>
+                  <p n="61">61. If he have that <hi>great</hi> leisure, and any <hi>prevalent temptation</hi> thus to lay it out, I shall onely assure him, that I have not so much of <hi>either,</hi> as to <hi>attend</hi> these his <hi>motions,</hi> nor any other <hi>lover</hi> or <hi>admirer of Mr Hooker,</hi> that I know of, and therefore beseech him <hi>contentedly</hi> to rest in this <hi>general</hi> return to his charge of that <hi>learned</hi> man, without expecting any more <hi>explicite</hi> or <hi>particular survey</hi> of it. And so much for Mr <hi>H.</hi> also.</p>
+                  <p n="62">62. I have thus without any other <hi>obligation,</hi> than what my de<g ref="char:EOLhyphen"/>sire to undeceive the <hi>Author</hi> and his <hi>Readers,</hi> laid upon me, paid him now this my <hi>second observance;</hi> And may be allowed to think it <hi>time,</hi> that he who hath been so liberal of his <hi>uses</hi> of publick <hi>refutation</hi> of <hi>others words,</hi> should find some <hi>vacancy</hi> for one <hi>use</hi> of more private (if not <hi>reprehension,</hi> yet) <hi>examination</hi> of his <hi>own actions;</hi> And then I shall offer to his consideration, how much more agreeable to the <hi>laws</hi> of <hi>brotherly kindnesse</hi> or <hi>can<g ref="char:EOLhyphen"/>dor</hi> it had been, to have proposed his <hi>exceptions</hi> in such a manner of <hi>friendly address,</hi> as might have brought him home the same <hi>sa<g ref="char:EOLhyphen"/>tisfaction,</hi>
+                     <pb n="24" facs="tcp:199438:19"/>and saved others the <hi>importunity</hi> of these <hi>uselesse,</hi> be<g ref="char:EOLhyphen"/>cause <hi>personal</hi> debates. When he hath sincerely observed in him<g ref="char:EOLhyphen"/>self the <hi>motive</hi> of his other <hi>distant choice,</hi> I have obtained the <hi>end</hi> of my <hi>charity</hi> in mentioning it to him, and have no more to <hi>re<g ref="char:EOLhyphen"/>turn</hi> to him at this <hi>time.</hi>
+                  </p>
+                  <trailer>THE END.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="errata">
+                  <head>Errata <hi>in the first Reply to</hi> Mr Jeanes.</head>
+                  <p>Pag. 1. l. 2. dele <hi>to.</hi> p. 3. l. 4. r. <hi>change.</hi> l. 28. r. <hi>onother, sec. magis.</hi> p. 6. l. 11, r. <hi>is in that.</hi> p. 10. l. 30. r. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </div>
+               <div type="errata">
+                  <head>Errata <hi>in the second Reply to</hi> Mr Jeanes.</head>
+                  <p>Pag. 11. l. 1. r. <hi>known to stand.</hi> p. 13. l. 28. r. <hi>mecr external.</hi> p. 15. l. 6. r. Mr <hi>Hynde, and</hi> Mr <hi>Glapthorne two vehement disputers.</hi> p. 16. l. 23. r. <hi>measures.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
